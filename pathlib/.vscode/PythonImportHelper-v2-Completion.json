@@ -1,0 +1,579 @@
+[
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "PureWindowsPath",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "absolute",
+        "description": "absolute",
+        "peekOfCode": "path = Path('scripts/main.py')\nprint(f\"Путь '{path}' абсолютный? {path.is_absolute()}\") # False\n# .resolve() превращает путь в абсолютный, разрешая все символические ссылки\nabsolute_path = path.resolve()\nprint(f\"Абсолютный путь: {absolute_path}\")\nprint(f\"Путь '{absolute_path}' абсолютный? {absolute_path.is_absolute()}\") # True",
+        "detail": "absolute",
+        "documentation": {}
+    },
+    {
+        "label": "absolute_path",
+        "kind": 5,
+        "importPath": "absolute",
+        "description": "absolute",
+        "peekOfCode": "absolute_path = path.resolve()\nprint(f\"Абсолютный путь: {absolute_path}\")\nprint(f\"Путь '{absolute_path}' абсолютный? {absolute_path.is_absolute()}\") # True",
+        "detail": "absolute",
+        "documentation": {}
+    },
+    {
+        "label": "source_dir",
+        "kind": 5,
+        "importPath": "clear_dowloads",
+        "description": "clear_dowloads",
+        "peekOfCode": "source_dir = Path.home() / \"Downloads\"\n# 2. Определяем \"карту\" распределения: расширение -> папка\nDEST_MAP = {\n    \".jpg\": \"Images\",\n    \".jpeg\": \"Images\",\n    \".png\": \"Images\",\n    \".gif\": \"Images\",\n    \".pdf\": \"Documents\",\n    \".docx\": \"Documents\",\n    \".txt\": \"Documents\",",
+        "detail": "clear_dowloads",
+        "documentation": {}
+    },
+    {
+        "label": "DEST_MAP",
+        "kind": 5,
+        "importPath": "clear_dowloads",
+        "description": "clear_dowloads",
+        "peekOfCode": "DEST_MAP = {\n    \".jpg\": \"Images\",\n    \".jpeg\": \"Images\",\n    \".png\": \"Images\",\n    \".gif\": \"Images\",\n    \".pdf\": \"Documents\",\n    \".docx\": \"Documents\",\n    \".txt\": \"Documents\",\n    \".zip\": \"Archives\",\n    \".rar\": \"Archives\",",
+        "detail": "clear_dowloads",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():\n    print(\"Hello from pathlib!\")\nif __name__ == \"__main__\":\n    main()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "root_path",
+        "kind": 5,
+        "importPath": "new",
+        "description": "new",
+        "peekOfCode": "root_path = Path('/etc')\n# Просто \"делим\" путь на его компоненты\nfull_path = root_path / 'nginx' / 'nginx.conf'\nprint(full_path) # /etc/nginx/nginx.conf",
+        "detail": "new",
+        "documentation": {}
+    },
+    {
+        "label": "full_path",
+        "kind": 5,
+        "importPath": "new",
+        "description": "new",
+        "peekOfCode": "full_path = root_path / 'nginx' / 'nginx.conf'\nprint(full_path) # /etc/nginx/nginx.conf",
+        "detail": "new",
+        "documentation": {}
+    },
+    {
+        "label": "file_to_del",
+        "kind": 5,
+        "importPath": "new_delete",
+        "description": "new_delete",
+        "peekOfCode": "file_to_del = Path(\"temp.tmp\")\ndir_to_del = Path(\"temp_dir\")\n# .unlink() для файлов (и символических ссылок)\nif file_to_del.exists():\n    file_to_del.unlink()\n# .rmdir() для пустых директорий\nif dir_to_del.exists():\n    dir_to_del.rmdir()\n# для рекурсивного удаления непустой директории по-прежнему стоит использовать shutil.rmtree(),\n# который, впрочем, прекрасно принимает в качестве аргумента объект Path",
+        "detail": "new_delete",
+        "documentation": {}
+    },
+    {
+        "label": "dir_to_del",
+        "kind": 5,
+        "importPath": "new_delete",
+        "description": "new_delete",
+        "peekOfCode": "dir_to_del = Path(\"temp_dir\")\n# .unlink() для файлов (и символических ссылок)\nif file_to_del.exists():\n    file_to_del.unlink()\n# .rmdir() для пустых директорий\nif dir_to_del.exists():\n    dir_to_del.rmdir()\n# для рекурсивного удаления непустой директории по-прежнему стоит использовать shutil.rmtree(),\n# который, впрочем, прекрасно принимает в качестве аргумента объект Path",
+        "detail": "new_delete",
+        "documentation": {}
+    },
+    {
+        "label": "path_obj",
+        "kind": 5,
+        "importPath": "new_exists",
+        "description": "new_exists",
+        "peekOfCode": "path_obj = Path(\"data/file.txt\")\nif path_obj.exists():\n    if path_obj.is_file():\n        print(f\"Файл '{path_obj}' существует.\")\n    elif path_obj.is_dir():\n        print(f\"Директория '{path_obj}' существует.\")",
+        "detail": "new_exists",
+        "documentation": {}
+    },
+    {
+        "label": "path_obj",
+        "kind": 5,
+        "importPath": "new_file",
+        "description": "new_file",
+        "peekOfCode": "path_obj = Path(\"hello.txt\")\ncontent = \"Привет, мир pathlib!\"\n# Запись в файл в одну строку!\npath_obj.write_text(content, encoding=\"utf-8\")\n# Чтение из файла в одну строку!\nread_content = path_obj.read_text(encoding=\"utf-8\")\nprint(read_content)\n# Для бинарных файлов существуют аналогичные методы read_bytes() и write_bytes()\nif",
+        "detail": "new_file",
+        "documentation": {}
+    },
+    {
+        "label": "content",
+        "kind": 5,
+        "importPath": "new_file",
+        "description": "new_file",
+        "peekOfCode": "content = \"Привет, мир pathlib!\"\n# Запись в файл в одну строку!\npath_obj.write_text(content, encoding=\"utf-8\")\n# Чтение из файла в одну строку!\nread_content = path_obj.read_text(encoding=\"utf-8\")\nprint(read_content)\n# Для бинарных файлов существуют аналогичные методы read_bytes() и write_bytes()\nif",
+        "detail": "new_file",
+        "documentation": {}
+    },
+    {
+        "label": "read_content",
+        "kind": 5,
+        "importPath": "new_file",
+        "description": "new_file",
+        "peekOfCode": "read_content = path_obj.read_text(encoding=\"utf-8\")\nprint(read_content)\n# Для бинарных файлов существуют аналогичные методы read_bytes() и write_bytes()\nif",
+        "detail": "new_file",
+        "documentation": {}
+    },
+    {
+        "label": "dir_path",
+        "kind": 5,
+        "importPath": "new_iterdir",
+        "description": "new_iterdir",
+        "peekOfCode": "dir_path = Path(\"src\")\n# iterdir() возвращает генератор объектов Path\nfor item_path in dir_path.iterdir():\n    # Мы сразу работаем с полноценными путями\n    if item_path.is_file():\n        print(f\"Файл: {item_path}\")",
+        "detail": "new_iterdir",
+        "documentation": {}
+    },
+    {
+        "label": "path_obj",
+        "kind": 5,
+        "importPath": "new_mkdirs",
+        "description": "new_mkdirs",
+        "peekOfCode": "path_obj = Path(\"archive/2025/reports\")\n# parents=True — создать родительские директории, если их нет\n# exist_ok=True — не вызывать ошибку, если директория уже существует\npath_obj.mkdir(parents=True, exist_ok=True)\nprint(f\"Директория '{path_obj}' успешно создана или уже существует.\")",
+        "detail": "new_mkdirs",
+        "documentation": {}
+    },
+    {
+        "label": "src",
+        "kind": 5,
+        "importPath": "new_rename",
+        "description": "new_rename",
+        "peekOfCode": "src = Path(\"main.log\")\ndst = Path(\"main.log.old\")\n# Метод rename можно вызвать прямо на объекте\nif src.exists():\n    src.rename(dst)\n    print(f\"Файл '{src}' переименован в '{dst}'.\")",
+        "detail": "new_rename",
+        "documentation": {}
+    },
+    {
+        "label": "dst",
+        "kind": 5,
+        "importPath": "new_rename",
+        "description": "new_rename",
+        "peekOfCode": "dst = Path(\"main.log.old\")\n# Метод rename можно вызвать прямо на объекте\nif src.exists():\n    src.rename(dst)\n    print(f\"Файл '{src}' переименован в '{dst}'.\")",
+        "detail": "new_rename",
+        "documentation": {}
+    },
+    {
+        "label": "project_dir",
+        "kind": 5,
+        "importPath": "new_search",
+        "description": "new_search",
+        "peekOfCode": "project_dir = Path(\"src\")\n# rglob возвращает генератор, что экономит память\npy_files_generator = project_dir.rglob(\"*.py\")\nfor path_obj in py_files_generator:\n    # Мы сразу получаем Path объекты, готовые к работе!\n    print(f\"Найден файл: {path_obj}, размер: {path_obj.stat().st_size} байт\")",
+        "detail": "new_search",
+        "documentation": {}
+    },
+    {
+        "label": "py_files_generator",
+        "kind": 5,
+        "importPath": "new_search",
+        "description": "new_search",
+        "peekOfCode": "py_files_generator = project_dir.rglob(\"*.py\")\nfor path_obj in py_files_generator:\n    # Мы сразу получаем Path объекты, готовые к работе!\n    print(f\"Найден файл: {path_obj}, размер: {path_obj.stat().st_size} байт\")",
+        "detail": "new_search",
+        "documentation": {}
+    },
+    {
+        "label": "root_path",
+        "kind": 5,
+        "importPath": "old",
+        "description": "old",
+        "peekOfCode": "root_path = '/etc'\nsubfolder = 'nginx'\nfilename = 'nginx.conf'\nfull_path = os.path.join(root_path, subfolder, filename)\nprint(full_path) # /etc/nginx/nginx.conf",
+        "detail": "old",
+        "documentation": {}
+    },
+    {
+        "label": "subfolder",
+        "kind": 5,
+        "importPath": "old",
+        "description": "old",
+        "peekOfCode": "subfolder = 'nginx'\nfilename = 'nginx.conf'\nfull_path = os.path.join(root_path, subfolder, filename)\nprint(full_path) # /etc/nginx/nginx.conf",
+        "detail": "old",
+        "documentation": {}
+    },
+    {
+        "label": "filename",
+        "kind": 5,
+        "importPath": "old",
+        "description": "old",
+        "peekOfCode": "filename = 'nginx.conf'\nfull_path = os.path.join(root_path, subfolder, filename)\nprint(full_path) # /etc/nginx/nginx.conf",
+        "detail": "old",
+        "documentation": {}
+    },
+    {
+        "label": "full_path",
+        "kind": 5,
+        "importPath": "old",
+        "description": "old",
+        "peekOfCode": "full_path = os.path.join(root_path, subfolder, filename)\nprint(full_path) # /etc/nginx/nginx.conf",
+        "detail": "old",
+        "documentation": {}
+    },
+    {
+        "label": "file_to_del",
+        "kind": 5,
+        "importPath": "old_delete",
+        "description": "old_delete",
+        "peekOfCode": "file_to_del = 'temp.tmp'\ndir_to_del = 'temp_dir'\nif os.path.isfile(file_to_del):\n    os.remove(file_to_del) # Для файлов используем os.remove()\nif os.path.isdir(dir_to_del):\n    os.rmdir(dir_to_del)   # Для пустых директорий — os.rmdir()",
+        "detail": "old_delete",
+        "documentation": {}
+    },
+    {
+        "label": "dir_to_del",
+        "kind": 5,
+        "importPath": "old_delete",
+        "description": "old_delete",
+        "peekOfCode": "dir_to_del = 'temp_dir'\nif os.path.isfile(file_to_del):\n    os.remove(file_to_del) # Для файлов используем os.remove()\nif os.path.isdir(dir_to_del):\n    os.rmdir(dir_to_del)   # Для пустых директорий — os.rmdir()",
+        "detail": "old_delete",
+        "documentation": {}
+    },
+    {
+        "label": "path_str",
+        "kind": 5,
+        "importPath": "old_exists",
+        "description": "old_exists",
+        "peekOfCode": "path_str = 'data/file.txt'\nif os.path.exists(path_str):\n    if os.path.isfile(path_str):\n        print(f\"Файл '{path_str}' существует.\")\n    elif os.path.isdir(path_str):\n        print(f\"Директория '{path_str}' существует.\")",
+        "detail": "old_exists",
+        "documentation": {}
+    },
+    {
+        "label": "path_str",
+        "kind": 5,
+        "importPath": "old_file",
+        "description": "old_file",
+        "peekOfCode": "path_str = \"hello.txt\"\ncontent = \"Привет, мир pathlib!\"\n# Запись в файл\nwith open(path_str, \"w\", encoding=\"utf-8\") as f:\n    f.write(content)\n# Чтение из файла\nwith open(path_str, \"r\", encoding=\"utf-8\") as f:\n    read_content = f.read()\nprint(read_content)",
+        "detail": "old_file",
+        "documentation": {}
+    },
+    {
+        "label": "content",
+        "kind": 5,
+        "importPath": "old_file",
+        "description": "old_file",
+        "peekOfCode": "content = \"Привет, мир pathlib!\"\n# Запись в файл\nwith open(path_str, \"w\", encoding=\"utf-8\") as f:\n    f.write(content)\n# Чтение из файла\nwith open(path_str, \"r\", encoding=\"utf-8\") as f:\n    read_content = f.read()\nprint(read_content)",
+        "detail": "old_file",
+        "documentation": {}
+    },
+    {
+        "label": "dir_path",
+        "kind": 5,
+        "importPath": "old_listdir",
+        "description": "old_listdir",
+        "peekOfCode": "dir_path = \"src\"\nfor item_name in os.listdir(dir_path):\n    # os.listdir() возвращает только имена, а не полные пути\n    full_path_str = os.path.join(dir_path, item_name)\n    if os.path.isfile(full_path_str):\n        print(f\"Файл: {full_path_str}\")",
+        "detail": "old_listdir",
+        "documentation": {}
+    },
+    {
+        "label": "path_str",
+        "kind": 5,
+        "importPath": "old_mkdirs",
+        "description": "old_mkdirs",
+        "peekOfCode": "path_str = \"archive/2025/reports\"\n# Приходится использовать try-except или предварительную проверку\n# os.makedirs() с exist_ok=True — лучший вариант в старом подходе\ntry:\n    os.makedirs(path_str)\n    print(f\"Директория '{path_str}' создана.\")\nexcept FileExistsError:\n    print(f\"Директория '{path_str}' уже существует.\")",
+        "detail": "old_mkdirs",
+        "documentation": {}
+    },
+    {
+        "label": "old_name",
+        "kind": 5,
+        "importPath": "old_rename",
+        "description": "old_rename",
+        "peekOfCode": "old_name = \"main.log\"\nnew_name = \"main.log.old\"\n# Убедимся, что файл существует\nif os.path.exists(old_name):\n    os.rename(old_name, new_name)\n    print(f\"Файл '{old_name}' переименован в '{new_name}'.\")",
+        "detail": "old_rename",
+        "documentation": {}
+    },
+    {
+        "label": "new_name",
+        "kind": 5,
+        "importPath": "old_rename",
+        "description": "old_rename",
+        "peekOfCode": "new_name = \"main.log.old\"\n# Убедимся, что файл существует\nif os.path.exists(old_name):\n    os.rename(old_name, new_name)\n    print(f\"Файл '{old_name}' переименован в '{new_name}'.\")",
+        "detail": "old_rename",
+        "documentation": {}
+    },
+    {
+        "label": "search_pattern",
+        "kind": 5,
+        "importPath": "old_search",
+        "description": "old_search",
+        "peekOfCode": "search_pattern = os.path.join(\"src\", \"**\", \"*.py\")\n# recursive=True необходимо для работы '**'\npy_files = glob.glob(search_pattern, recursive=True)\nfor file_path_str in py_files:\n    # Мы получаем строки, которые для дальнейшей работы нужно снова превращать в объекты\n    print(file_path_str)",
+        "detail": "old_search",
+        "documentation": {}
+    },
+    {
+        "label": "py_files",
+        "kind": 5,
+        "importPath": "old_search",
+        "description": "old_search",
+        "peekOfCode": "py_files = glob.glob(search_pattern, recursive=True)\nfor file_path_str in py_files:\n    # Мы получаем строки, которые для дальнейшей работы нужно снова превращать в объекты\n    print(file_path_str)",
+        "detail": "old_search",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "parts",
+        "description": "parts",
+        "peekOfCode": "path = Path('/home/user/project/main.py')\nprint(f\"Родительская директория: {path.parent}\")   # /home/user/project\nprint(f\"Имя файла: {path.name}\")                   # main.py\nprint(f\"Имя без расширения: {path.stem}\")          # main\nprint(f\"Расширение: {path.suffix}\")                # .py\nprint(f\"Кортеж из частей пути: {path.parts}\")      # ('/', 'home', 'user', 'project', 'main.py')",
+        "detail": "parts",
+        "documentation": {}
+    },
+    {
+        "label": "win_path",
+        "kind": 5,
+        "importPath": "purepath",
+        "description": "purepath",
+        "peekOfCode": "win_path = PureWindowsPath(\"C:/Users/Admin\") / \"Documents\" / \"report.docx\"\nprint(f\"Сгенерированный путь Windows: {win_path}\")  # Вывод: C:\\Users\\Admin\\Documents\\report.docx\nprint(f\"Имя файла: {win_path.name}\")\nprint(f\"Родитель: {win_path.parent}\")",
+        "detail": "purepath",
+        "documentation": {}
+    },
+    {
+        "label": "config_path",
+        "kind": 5,
+        "importPath": "sample1",
+        "description": "sample1",
+        "peekOfCode": "config_path = Path('settings/production/database.ini')\n# Получаем специальные пути\ncurrent_dir = Path.cwd()  # Current Working Directory (текущая рабочая директория)\nhome_dir = Path.home()    # Домашняя директория пользователя\nprint(f\"Путь к конфигу: {config_path}\")\nprint(f\"Текущая директория: {current_dir}\")\nprint(f\"Домашняя директория: {home_dir}\")",
+        "detail": "sample1",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "sample1",
+        "description": "sample1",
+        "peekOfCode": "current_dir = Path.cwd()  # Current Working Directory (текущая рабочая директория)\nhome_dir = Path.home()    # Домашняя директория пользователя\nprint(f\"Путь к конфигу: {config_path}\")\nprint(f\"Текущая директория: {current_dir}\")\nprint(f\"Домашняя директория: {home_dir}\")",
+        "detail": "sample1",
+        "documentation": {}
+    },
+    {
+        "label": "home_dir",
+        "kind": 5,
+        "importPath": "sample1",
+        "description": "sample1",
+        "peekOfCode": "home_dir = Path.home()    # Домашняя директория пользователя\nprint(f\"Путь к конфигу: {config_path}\")\nprint(f\"Текущая директория: {current_dir}\")\nprint(f\"Домашняя директория: {home_dir}\")",
+        "detail": "sample1",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Теперь можно безопасно строить пути к любым ресурсам в проекте\nDATA_DIR = BASE_DIR / 'data'\nRAW_DATA_PATH = DATA_DIR / 'raw.csv'\nprint(f\"Корень проекта: {BASE_DIR}\")\nprint(f\"Путь к данным: {RAW_DATA_PATH}\")\nprint(f\"Существует ли файл с данными? {RAW_DATA_PATH.exists()}\")",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATA_DIR",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "DATA_DIR = BASE_DIR / 'data'\nRAW_DATA_PATH = DATA_DIR / 'raw.csv'\nprint(f\"Корень проекта: {BASE_DIR}\")\nprint(f\"Путь к данным: {RAW_DATA_PATH}\")\nprint(f\"Существует ли файл с данными? {RAW_DATA_PATH.exists()}\")",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "RAW_DATA_PATH",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "RAW_DATA_PATH = DATA_DIR / 'raw.csv'\nprint(f\"Корень проекта: {BASE_DIR}\")\nprint(f\"Путь к данным: {RAW_DATA_PATH}\")\nprint(f\"Существует ли файл с данными? {RAW_DATA_PATH.exists()}\")",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "source_dir",
+        "kind": 5,
+        "importPath": "shutil_pathlib",
+        "description": "shutil_pathlib",
+        "peekOfCode": "source_dir = Path(\"project_backup\")\ndestination_dir = Path(\"project_new\")\n# pathlib и shutil отлично работают вместе!\nif source_dir.exists():\n    shutil.rmtree(destination_dir, ignore_errors=True)  # shutil.rmtree принимает Path\n    shutil.copytree(source_dir, destination_dir)  # и shutil.copytree тоже\n    print(\"Проект успешно скопирован!\")",
+        "detail": "shutil_pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "destination_dir",
+        "kind": 5,
+        "importPath": "shutil_pathlib",
+        "description": "shutil_pathlib",
+        "peekOfCode": "destination_dir = Path(\"project_new\")\n# pathlib и shutil отлично работают вместе!\nif source_dir.exists():\n    shutil.rmtree(destination_dir, ignore_errors=True)  # shutil.rmtree принимает Path\n    shutil.copytree(source_dir, destination_dir)  # и shutil.copytree тоже\n    print(\"Проект успешно скопирован!\")",
+        "detail": "shutil_pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "search_dir",
+        "kind": 5,
+        "importPath": "top10",
+        "description": "top10",
+        "peekOfCode": "search_dir = Path.home()\n# 1. Используем rglob для рекурсивного поиска всех файлов\n# 2. Фильтруем, оставляя только файлы (на случай, если попадется ссылка на директорию)\n# 3. Создаем список кортежей (размер_файла, путь_к_файлу)\nall_files = [(p.stat().st_size, p) for p in search_dir.rglob(\"*\") if p.is_file()]\n# 4. Сортируем список по убыванию размера и берем первые 10\nall_files.sort(key=lambda x: x[0], reverse=True)\nprint(\"Топ-10 самых больших файлов:\")\nfor size, path in all_files[:10]:\n    # Приводим размер к мегабайтам для читаемости",
+        "detail": "top10",
+        "documentation": {}
+    },
+    {
+        "label": "all_files",
+        "kind": 5,
+        "importPath": "top10",
+        "description": "top10",
+        "peekOfCode": "all_files = [(p.stat().st_size, p) for p in search_dir.rglob(\"*\") if p.is_file()]\n# 4. Сортируем список по убыванию размера и берем первые 10\nall_files.sort(key=lambda x: x[0], reverse=True)\nprint(\"Топ-10 самых больших файлов:\")\nfor size, path in all_files[:10]:\n    # Приводим размер к мегабайтам для читаемости\n    print(f\"  {path.name:<40} | {size / 1024 / 1024:.2f} MB\")",
+        "detail": "top10",
+        "documentation": {}
+    }
+]

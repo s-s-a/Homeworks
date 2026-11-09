@@ -1,0 +1,351 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "typer",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "typer",
+        "description": "typer",
+        "detail": "typer",
+        "documentation": {}
+    },
+    {
+        "label": "print",
+        "importPath": "rich",
+        "description": "rich",
+        "isExtraImport": true,
+        "detail": "rich",
+        "documentation": {}
+    },
+    {
+        "label": "print",
+        "importPath": "rich",
+        "description": "rich",
+        "isExtraImport": true,
+        "detail": "rich",
+        "documentation": {}
+    },
+    {
+        "label": "print",
+        "importPath": "rich",
+        "description": "rich",
+        "isExtraImport": true,
+        "detail": "rich",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "rich.table",
+        "description": "rich.table",
+        "isExtraImport": true,
+        "detail": "rich.table",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "rich.table",
+        "description": "rich.table",
+        "isExtraImport": true,
+        "detail": "rich.table",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "rich.table",
+        "description": "rich.table",
+        "isExtraImport": true,
+        "detail": "rich.table",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "track",
+        "importPath": "rich.progress",
+        "description": "rich.progress",
+        "isExtraImport": true,
+        "detail": "rich.progress",
+        "documentation": {}
+    },
+    {
+        "label": "track",
+        "importPath": "rich.progress",
+        "description": "rich.progress",
+        "isExtraImport": true,
+        "detail": "rich.progress",
+        "documentation": {}
+    },
+    {
+        "label": "niquests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "niquests",
+        "description": "niquests",
+        "detail": "niquests",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"CLI_Typer\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"CLI_Typer\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"CLI_Typer\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"CLI_Typer\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"CLI_Typer\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main(name: str):\n    \"\"\"\n    Говорит \"Привет\" пользователю.\n    \"\"\"\n    print(f\"Привет, {name}!\")\nif __name__ == \"__main__\":\n    typer.run(main)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main1",
+        "description": "main1",
+        "peekOfCode": "def main(name: str):\n    \"\"\"\n    Говорит \"Привет\" пользователю.\n    \"\"\"\n    print(f\"Привет, {name}!\")\nif __name__ == \"__main__\":\n    typer.run(main)",
+        "detail": "main1",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main2",
+        "description": "main2",
+        "peekOfCode": "def main(\n    name: str,\n    lastname: str = typer.Option(\"\", help=\"Фамилия пользователя.\"),\n    formal: bool = typer.Option(False, \"--formal\", \"-f\", help=\"Использовать формальное приветствие.\"),\n):\n    \"\"\"\n    Говорит \"Привет\" пользователю, опционально используя фамилию и формальный стиль.\n    \"\"\"\n    if formal:\n        print(f\"Добрый день, {name} {lastname}!\")",
+        "detail": "main2",
+        "documentation": {}
+    },
+    {
+        "label": "table",
+        "kind": 5,
+        "importPath": "rich2",
+        "description": "rich2",
+        "peekOfCode": "table = Table(title=\"Список моих любимых фреймворков\")\n# 2. Добавляем колонки\ntable.add_column(\"Название\", justify=\"left\", style=\"cyan\", no_wrap=True)\ntable.add_column(\"Язык\", style=\"magenta\")\ntable.add_column(\"Для чего\", justify=\"right\", style=\"green\")\n# 3. Наполняем данными\ntable.add_row(\"FastAPI\", \"Python\", \"Веб-API\")\ntable.add_row(\"React\", \"JavaScript\", \"Фронтенд\")\ntable.add_row(\"Typer\", \"Python\", \"CLI-приложения\")\n# 4. Выводим таблицу в консоль",
+        "detail": "rich2",
+        "documentation": {}
+    },
+    {
+        "label": "get_status_emoji",
+        "kind": 2,
+        "importPath": "site_checker",
+        "description": "site_checker",
+        "peekOfCode": "def get_status_emoji(status_code: int) -> str:\n    \"\"\"Возвращает эмодзи в зависимости от статус-кода, используя словарь.\"\"\"\n    status_emoji_map = {\n        2: \"✅ OK\",\n        3: \"➡️ REDIRECT\",\n        4: \"❌ CLIENT ERROR\",\n        5: \"🔥 SERVER ERROR\",\n    }\n    # Получаем нужное по первой цифре статус-кода\n    return status_emoji_map.get(status_code // 100, \"❓ UNKNOWN\")",
+        "detail": "site_checker",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "site_checker",
+        "description": "site_checker",
+        "peekOfCode": "def main(urls: list[str] = typer.Argument([\"https://www.google.com\",], help=\"Список URL для проверки.\")):\n    \"\"\"\n    Проверяет доступность сайтов и выводит результат в виде таблицы.\n    \"\"\"\n    table = Table(title=\"Результаты проверки сайтов\")\n    table.add_column(\"URL\", style=\"cyan\", no_wrap=True)\n    table.add_column(\"Статус код\", justify=\"center\")\n    table.add_column(\"Статус\", justify=\"left\", style=\"green\")\n    for url in track(urls, description=\"Проверка сайтов...\"):\n        try:",
+        "detail": "site_checker",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "site_checker",
+        "description": "site_checker",
+        "peekOfCode": "console = Console()\ndef get_status_emoji(status_code: int) -> str:\n    \"\"\"Возвращает эмодзи в зависимости от статус-кода, используя словарь.\"\"\"\n    status_emoji_map = {\n        2: \"✅ OK\",\n        3: \"➡️ REDIRECT\",\n        4: \"❌ CLIENT ERROR\",\n        5: \"🔥 SERVER ERROR\",\n    }\n    # Получаем нужное по первой цифре статус-кода",
+        "detail": "site_checker",
+        "documentation": {}
+    },
+    {
+        "label": "get_status_emoji",
+        "kind": 2,
+        "importPath": "site_checker_async",
+        "description": "site_checker_async",
+        "peekOfCode": "def get_status_emoji(status_code: int) -> str:\n    \"\"\"Возвращает эмодзи в зависимости от статус-кода.\"\"\"\n    status_emoji_map = {\n        2: \"✅ OK\",\n        3: \"➡️ REDIRECT\",\n        4: \"❌ CLIENT ERROR\",\n        5: \"🔥 SERVER ERROR\",\n    }\n    return status_emoji_map.get(status_code // 100, \"❓ UNKNOWN\")\nasync def check_url(client: httpx.AsyncClient, url: str) -> dict:",
+        "detail": "site_checker_async",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "site_checker_async",
+        "description": "site_checker_async",
+        "peekOfCode": "def main(\n    urls: list[str] = typer.Argument(DEFAULT_URLS, help=\"Список URL для проверки.\"),\n    timeout: int = typer.Option(5, \"--timeout\", \"-t\", help=\"Таймаут для каждого запроса в секундах.\"),\n):\n    \"\"\"\n    Проверяет доступность сайтов и выводит результат в виде таблицы (асинхронно).\n    \"\"\"\n    table = asyncio.run(main_async(urls, float(timeout)))\n    console.print(table)\nif __name__ == \"__main__\":",
+        "detail": "site_checker_async",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "site_checker_async",
+        "description": "site_checker_async",
+        "peekOfCode": "console = Console()\nDEFAULT_URLS = [\n    \"https://httpbin.org/get\",           # 200\n    \"https://httpbin.org/redirect/1\",    # 302\n    \"https://httpbin.org/status/404\",    # 404\n    \"https://httpbin.org/status/500\",    # 500\n]\ndef get_status_emoji(status_code: int) -> str:\n    \"\"\"Возвращает эмодзи в зависимости от статус-кода.\"\"\"\n    status_emoji_map = {",
+        "detail": "site_checker_async",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_URLS",
+        "kind": 5,
+        "importPath": "site_checker_async",
+        "description": "site_checker_async",
+        "peekOfCode": "DEFAULT_URLS = [\n    \"https://httpbin.org/get\",           # 200\n    \"https://httpbin.org/redirect/1\",    # 302\n    \"https://httpbin.org/status/404\",    # 404\n    \"https://httpbin.org/status/500\",    # 500\n]\ndef get_status_emoji(status_code: int) -> str:\n    \"\"\"Возвращает эмодзи в зависимости от статус-кода.\"\"\"\n    status_emoji_map = {\n        2: \"✅ OK\",",
+        "detail": "site_checker_async",
+        "documentation": {}
+    }
+]

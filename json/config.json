@@ -1,0 +1,15 @@
+{
+  "app_name": "My Awesome App",
+  "version": "1.2.0",
+  "debug_mode": true,
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "user": "admin"
+  },
+  "supported_features": [
+    "feature_a",
+    "feature_b",
+    "feature_c"
+  ]
+}

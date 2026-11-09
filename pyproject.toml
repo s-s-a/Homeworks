@@ -1,0 +1,34 @@
+[project]
+name = "homeworks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[tool.uv.workspace]
+members = [
+    "args",
+    "async",
+    "CLI_Typer",
+    "csv",
+    "datetime",
+    "Decorator",
+    "generator",
+    "inheritance",
+    "json",
+    "loguru",
+    "Math",
+    "os",
+    "pathlib",
+    "random_",
+    "re",
+    "Selectolax_hw",
+    "sys",
+    "Pendulum",
+    "photoshop_mini",
+    "docker",
+    "iter-tools",
+    "pydantic_v2",
+    "msgspec",
+]

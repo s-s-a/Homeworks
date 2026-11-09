@@ -1,0 +1,7 @@
+[project]
+name = "args-homework"
+version = "0.1.0"
+description = "руководство по *args и **kwargs для начинающих"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []

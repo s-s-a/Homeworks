@@ -1,0 +1,7 @@
+[project]
+name = "math"
+version = "0.1.0"
+description = "Изучаем Python: модуль math для начинающих с практическим домашним заданием"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []

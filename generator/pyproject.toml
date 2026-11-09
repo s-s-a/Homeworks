@@ -1,0 +1,7 @@
+[project]
+name = "generator-homework"
+version = "0.1.0"
+description = "Генераторы в Python для начинающих"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []

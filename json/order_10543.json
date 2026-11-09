@@ -1,0 +1,28 @@
+{
+    "order_id": 10543,
+    "timestamp": "2025-10-26T22:45:05.332100",
+    "customer": {
+        "name": "Мария Смирнова",
+        "email": "m.smirnova@example.com",
+        "address": {
+            "city": "Санкт-Петербург",
+            "street": "Невский проспект",
+            "house": "10"
+        }
+    },
+    "items": [
+        {
+            "product_id": "prod-001",
+            "product_name": "Ноутбук ProBook 15",
+            "quantity": 1,
+            "price": 75000.0
+        },
+        {
+            "product_id": "prod-025",
+            "product_name": "Беспроводная мышь",
+            "quantity": 1,
+            "price": 1500.5
+        }
+    ],
+    "is_paid": true
+}

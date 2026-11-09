@@ -1,0 +1,59 @@
+{
+	"folders": [
+		{
+			"path": "loguru"
+		},
+		{
+			"path": "args"
+		},
+		{
+			"path": "async"
+		},
+		{
+			"path": "CLI_Typer"
+		},
+		{
+			"path": "csv"
+		},
+		{
+			"path": "datetime"
+		},
+		{
+			"path": "Decorator"
+		},
+		{
+			"path": "generator"
+		},
+		{
+			"path": "inheritance"
+		},
+		{
+			"path": "json"
+		},
+		{
+			"path": "Math"
+		},
+		{
+			"path": "os"
+		},
+		{
+			"path": "pathlib"
+		},
+		{
+			"path": "random_"
+		},
+		{
+			"path": "re"
+		},
+		{
+			"path": "Selectolax_hw"
+		},
+		{
+			"path": "sys"
+		},
+		{
+			"path": "Pendulum"
+		}
+	],
+	"settings": {}
+}

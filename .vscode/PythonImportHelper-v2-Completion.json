@@ -1,0 +1,2376 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "niquests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "niquests",
+        "description": "niquests",
+        "detail": "niquests",
+        "documentation": {}
+    },
+    {
+        "label": "aiohttp",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiohttp",
+        "description": "aiohttp",
+        "detail": "aiohttp",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_return_date",
+        "importPath": "tasks.task_1",
+        "description": "tasks.task_1",
+        "isExtraImport": true,
+        "detail": "tasks.task_1",
+        "documentation": {}
+    },
+    {
+        "label": "solve",
+        "importPath": "tasks.task_1",
+        "description": "tasks.task_1",
+        "isExtraImport": true,
+        "detail": "tasks.task_1",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_age",
+        "importPath": "tasks.task_2",
+        "description": "tasks.task_2",
+        "isExtraImport": true,
+        "detail": "tasks.task_2",
+        "documentation": {}
+    },
+    {
+        "label": "solve",
+        "importPath": "tasks.task_2",
+        "description": "tasks.task_2",
+        "isExtraImport": true,
+        "detail": "tasks.task_2",
+        "documentation": {}
+    },
+    {
+        "label": "format_news_date",
+        "importPath": "tasks.task_3",
+        "description": "tasks.task_3",
+        "isExtraImport": true,
+        "detail": "tasks.task_3",
+        "documentation": {}
+    },
+    {
+        "label": "solve",
+        "importPath": "tasks.task_3",
+        "description": "tasks.task_3",
+        "isExtraImport": true,
+        "detail": "tasks.task_3",
+        "documentation": {}
+    },
+    {
+        "label": "validate_date_format",
+        "importPath": "tasks.task_4",
+        "description": "tasks.task_4",
+        "isExtraImport": true,
+        "detail": "tasks.task_4",
+        "documentation": {}
+    },
+    {
+        "label": "solve",
+        "importPath": "tasks.task_4",
+        "description": "tasks.task_4",
+        "isExtraImport": true,
+        "detail": "tasks.task_4",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_timestamps",
+        "importPath": "tasks.task_5",
+        "description": "tasks.task_5",
+        "isExtraImport": true,
+        "detail": "tasks.task_5",
+        "documentation": {}
+    },
+    {
+        "label": "solve",
+        "importPath": "tasks.task_5",
+        "description": "tasks.task_5",
+        "isExtraImport": true,
+        "detail": "tasks.task_5",
+        "documentation": {}
+    },
+    {
+        "label": "Задача1",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "Задача1",
+        "description": "Задача1",
+        "detail": "Задача1",
+        "documentation": {}
+    },
+    {
+        "label": "functools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "functools",
+        "description": "functools",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "JSONEncoder",
+        "importPath": "json",
+        "description": "json",
+        "isExtraImport": true,
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "msgspec",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "msgspec",
+        "description": "msgspec",
+        "detail": "msgspec",
+        "documentation": {}
+    },
+    {
+        "label": "orjson",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "orjson",
+        "description": "orjson",
+        "detail": "orjson",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "task_1_roll_dice",
+        "importPath": "random_homework.tasks.task_1",
+        "description": "random_homework.tasks.task_1",
+        "isExtraImport": true,
+        "detail": "random_homework.tasks.task_1",
+        "documentation": {}
+    },
+    {
+        "label": "task_2_select_winner",
+        "importPath": "random_homework.tasks.task_2",
+        "description": "random_homework.tasks.task_2",
+        "isExtraImport": true,
+        "detail": "random_homework.tasks.task_2",
+        "documentation": {}
+    },
+    {
+        "label": "task_3_generate_password",
+        "importPath": "random_homework.tasks.task_3",
+        "description": "random_homework.tasks.task_3",
+        "isExtraImport": true,
+        "detail": "random_homework.tasks.task_3",
+        "documentation": {}
+    },
+    {
+        "label": "task_4_select_unique_prizes",
+        "importPath": "random_homework.tasks.task_4",
+        "description": "random_homework.tasks.task_4",
+        "isExtraImport": true,
+        "detail": "random_homework.tasks.task_4",
+        "documentation": {}
+    },
+    {
+        "label": "task_5_open_lootbox",
+        "importPath": "random_homework.tasks.task_5",
+        "description": "random_homework.tasks.task_5",
+        "isExtraImport": true,
+        "detail": "random_homework.tasks.task_5",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"Homeworks\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"Homeworks\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"Homeworks\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"Homeworks\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"Homeworks\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "args.homework.main",
+        "description": "args.homework.main",
+        "peekOfCode": "def main():\n    print(\"Hello from args-homework!\")\nif __name__ == \"__main__\":\n    main()",
+        "detail": "args.homework.main",
+        "documentation": {}
+    },
+    {
+        "label": "summator",
+        "kind": 2,
+        "importPath": "args.homework.sample1",
+        "description": "args.homework.sample1",
+        "peekOfCode": "def summator(*numbers):\n    \"\"\"\n    Возвращает сумму всех переданных числовых аргументов.\n    Внутри функции 'numbers' является кортежем.\n    \"\"\"\n    print(f\"Получен кортеж: {numbers}\")  # Демонстрация типа данных\n    total = 0\n    for number in numbers:\n        total += number\n    return total",
+        "detail": "args.homework.sample1",
+        "documentation": {}
+    },
+    {
+        "label": "create_connection_config",
+        "kind": 2,
+        "importPath": "args.homework.sample2",
+        "description": "args.homework.sample2",
+        "peekOfCode": "def create_connection_config(host, **options):\n    \"\"\"\n    Формирует словарь конфигурации.\n    'host' - обязательный позиционный аргумент.\n    'options' - словарь, содержащий все остальные именованные аргументы.\n    \"\"\"\n    config = {'host': host}\n    print(f\"Получен словарь опций: {options}\")  # Демонстрация типа данных\n    # Метод update() словаря идеально подходит для слияния\n    config.update(options)",
+        "detail": "args.homework.sample2",
+        "documentation": {}
+    },
+    {
+        "label": "config1",
+        "kind": 5,
+        "importPath": "args.homework.sample2",
+        "description": "args.homework.sample2",
+        "peekOfCode": "config1 = create_connection_config(\"localhost\", user=\"admin\", port=5432)\nprint(f\"Итоговая конфигурация 1: {config1}\\n\")\n# Пример 2: передача расширенного набора параметров\nconfig2 = create_connection_config(\n    \"db.example.com\",\n    user=\"readonly_user\",\n    password=\"secure_password\",\n    timeout=30,\n    ssl_mode=\"require\"\n)",
+        "detail": "args.homework.sample2",
+        "documentation": {}
+    },
+    {
+        "label": "config2",
+        "kind": 5,
+        "importPath": "args.homework.sample2",
+        "description": "args.homework.sample2",
+        "peekOfCode": "config2 = create_connection_config(\n    \"db.example.com\",\n    user=\"readonly_user\",\n    password=\"secure_password\",\n    timeout=30,\n    ssl_mode=\"require\"\n)\nprint(f\"Итоговая конфигурация 2: {config2}\")",
+        "detail": "args.homework.sample2",
+        "documentation": {}
+    },
+    {
+        "label": "log_event",
+        "kind": 2,
+        "importPath": "args.homework.sample3",
+        "description": "args.homework.sample3",
+        "peekOfCode": "def log_event(event_type, *details, **metadata):\n    \"\"\"\n    Логирует событие с обязательным типом, опциональными деталями\n    и опциональными метаданными.\n    \"\"\"\n    print(f\"[ТИП СОБЫТИЯ]: {event_type}\")\n    if details:\n        # details - это кортеж\n        print(\"[ДЕТАЛИ]:\")\n        for detail in details:",
+        "detail": "args.homework.sample3",
+        "documentation": {}
+    },
+    {
+        "label": "timing_decorator",
+        "kind": 2,
+        "importPath": "args.homework.sample4",
+        "description": "args.homework.sample4",
+        "peekOfCode": "def timing_decorator(func):\n    \"\"\"Декоратор для измерения времени выполнения функции.\"\"\"\n    def wrapper(*args, **kwargs):\n        # *args и **kwargs собирают ВСЕ аргументы, предназначенные для func\n        print(f\"Вызов функции {func.__name__} с аргументами {args} и {kwargs}...\")\n        start_time = time.time()\n        # Передаем собранные аргументы в оригинальную функцию\n        result = func(*args, **kwargs)\n        end_time = time.time()\n        print(f\"Функция {func.__name__} выполнилась за {end_time - start_time:.4f} сек.\")",
+        "detail": "args.homework.sample4",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_sum",
+        "kind": 2,
+        "importPath": "args.homework.sample4",
+        "description": "args.homework.sample4",
+        "peekOfCode": "def calculate_sum(a, b, c):\n    time.sleep(1)\n    return a + b + c\n@timing_decorator\ndef get_user_info(user_id, with_details=False):\n    time.sleep(0.5)\n    info = {'id': user_id}\n    if with_details:\n        info['details'] = 'Some details here'\n    return info",
+        "detail": "args.homework.sample4",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_info",
+        "kind": 2,
+        "importPath": "args.homework.sample4",
+        "description": "args.homework.sample4",
+        "peekOfCode": "def get_user_info(user_id, with_details=False):\n    time.sleep(0.5)\n    info = {'id': user_id}\n    if with_details:\n        info['details'] = 'Some details here'\n    return info\n# Вызовы\ncalculate_sum(10, 20, 30)\nprint(\"-\" * 20)\nget_user_info(101, with_details=True)",
+        "detail": "args.homework.sample4",
+        "documentation": {}
+    },
+    {
+        "label": "BaseComponent",
+        "kind": 6,
+        "importPath": "args.homework.sample5",
+        "description": "args.homework.sample5",
+        "peekOfCode": "class BaseComponent:\n    def __init__(self, name, **kwargs):\n        print(f\"BaseComponent __init__ с {name=} и {kwargs=}\")\n        self.name = name\n        self.config = kwargs\nclass AdvancedComponent(BaseComponent):\n    def __init__(self, name, version, **kwargs):\n        print(f\"AdvancedComponent __init__ с {name=}, {version=} и {kwargs=}\")\n        # Мы явно обрабатываем 'version', а остальное проксируем в родительский класс\n        super().__init__(name, **kwargs)",
+        "detail": "args.homework.sample5",
+        "documentation": {}
+    },
+    {
+        "label": "AdvancedComponent",
+        "kind": 6,
+        "importPath": "args.homework.sample5",
+        "description": "args.homework.sample5",
+        "peekOfCode": "class AdvancedComponent(BaseComponent):\n    def __init__(self, name, version, **kwargs):\n        print(f\"AdvancedComponent __init__ с {name=}, {version=} и {kwargs=}\")\n        # Мы явно обрабатываем 'version', а остальное проксируем в родительский класс\n        super().__init__(name, **kwargs)\n        self.version = version\n# Если в будущем в BaseComponent добавят новый параметр, например, 'enabled=True',\n# AdvancedComponent продолжит работать корректно.\n# Пример: 'author' и 'license' не объявлены ни в одном из конструкторов,\n# но они будут корректно обработаны и собраны в **kwargs.",
+        "detail": "args.homework.sample5",
+        "documentation": {}
+    },
+    {
+        "label": "adv",
+        "kind": 5,
+        "importPath": "args.homework.sample5",
+        "description": "args.homework.sample5",
+        "peekOfCode": "adv = AdvancedComponent(\"Logger\", version=\"2.1\", author=\"John Doe\", license=\"MIT\")",
+        "detail": "args.homework.sample5",
+        "documentation": {}
+    },
+    {
+        "label": "make_api_request",
+        "kind": 2,
+        "importPath": "args.homework.sample6",
+        "description": "args.homework.sample6",
+        "peekOfCode": "def make_api_request(method, url, *args, **kwargs):\n    \"\"\"\n    Универсальная обертка для библиотеки requests.\n    Добавляет, например, кастомный заголовок User-Agent ко всем запросам.\n    \"\"\"\n    if 'headers' not in kwargs:\n        kwargs['headers'] = {}\n    kwargs['headers']['User-Agent'] = 'MyAwesomeApp/1.0'\n    # requests.request - это универсальный метод, который сам принимает\n    # почти любые аргументы. Мы просто передаем все \"транзитом\".",
+        "detail": "args.homework.sample6",
+        "documentation": {}
+    },
+    {
+        "label": "response_get",
+        "kind": 5,
+        "importPath": "args.homework.sample6",
+        "description": "args.homework.sample6",
+        "peekOfCode": "response_get = make_api_request('GET', 'https://api.github.com/events', params={'per_page': 5})\n# POST-запрос с телом в формате JSON\npost_data = {'title': 'New Post', 'body': 'Content'}\nresponse_post = make_api_request('POST', 'https://jsonplaceholder.typicode.com/posts', json=post_data)\nprint(response_get.request.headers['User-Agent']) # Вывод: MyAwesomeApp/1.0\nprint(response_post.request.headers['User-Agent'])# Вывод: MyAwesomeApp/1.0",
+        "detail": "args.homework.sample6",
+        "documentation": {}
+    },
+    {
+        "label": "post_data",
+        "kind": 5,
+        "importPath": "args.homework.sample6",
+        "description": "args.homework.sample6",
+        "peekOfCode": "post_data = {'title': 'New Post', 'body': 'Content'}\nresponse_post = make_api_request('POST', 'https://jsonplaceholder.typicode.com/posts', json=post_data)\nprint(response_get.request.headers['User-Agent']) # Вывод: MyAwesomeApp/1.0\nprint(response_post.request.headers['User-Agent'])# Вывод: MyAwesomeApp/1.0",
+        "detail": "args.homework.sample6",
+        "documentation": {}
+    },
+    {
+        "label": "response_post",
+        "kind": 5,
+        "importPath": "args.homework.sample6",
+        "description": "args.homework.sample6",
+        "peekOfCode": "response_post = make_api_request('POST', 'https://jsonplaceholder.typicode.com/posts', json=post_data)\nprint(response_get.request.headers['User-Agent']) # Вывод: MyAwesomeApp/1.0\nprint(response_post.request.headers['User-Agent'])# Вывод: MyAwesomeApp/1.0",
+        "detail": "args.homework.sample6",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "async.homework..venv.Scripts.activate_this",
+        "description": "async.homework..venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"async-homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "async.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "async.homework..venv.Scripts.activate_this",
+        "description": "async.homework..venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"async-homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": "async.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "async.homework..venv.Scripts.activate_this",
+        "description": "async.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"async-homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "async.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "async.homework..venv.Scripts.activate_this",
+        "description": "async.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"async-homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "async.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "async.homework..venv.Scripts.activate_this",
+        "description": "async.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"async-homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "async.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "async.homework..venv.Scripts.activate_this",
+        "description": "async.homework..venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "async.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "async.homework..venv.Scripts.activate_this",
+        "description": "async.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "async.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "async.homework..venv.Scripts.activate_this",
+        "description": "async.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "async.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "async.homework..venv.Scripts.activate_this",
+        "description": "async.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "async.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "async.homework.main",
+        "description": "async.homework.main",
+        "peekOfCode": "def main():\n    print(\"Hello from async-homework!\")\nif __name__ == \"__main__\":\n    main()",
+        "detail": "async.homework.main",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_sync",
+        "kind": 2,
+        "importPath": "async.homework.preview",
+        "description": "async.homework.preview",
+        "peekOfCode": "def fetch_sync(url):\n    \"\"\"Синхронно выполняет запрос к URL.\"\"\"\n    print(f\"Запрашиваю {url}...\")\n    requests.get(url)\n    print(f\"Запрос к {url} завершен.\")\nstart_time = time.time()\nfor url in urls:\n    fetch_sync(url)\nend_time = time.time()\nprint(f\"\\nСинхронное выполнение заняло: {end_time - start_time:.2f} секунд.\")",
+        "detail": "async.homework.preview",
+        "documentation": {}
+    },
+    {
+        "label": "urls",
+        "kind": 5,
+        "importPath": "async.homework.preview",
+        "description": "async.homework.preview",
+        "peekOfCode": "urls = [\n    'https://httpbin.org/delay/2',\n    'https://httpbin.org/delay/2',\n    'https://httpbin.org/delay/2',\n]\ndef fetch_sync(url):\n    \"\"\"Синхронно выполняет запрос к URL.\"\"\"\n    print(f\"Запрашиваю {url}...\")\n    requests.get(url)\n    print(f\"Запрос к {url} завершен.\")",
+        "detail": "async.homework.preview",
+        "documentation": {}
+    },
+    {
+        "label": "start_time",
+        "kind": 5,
+        "importPath": "async.homework.preview",
+        "description": "async.homework.preview",
+        "peekOfCode": "start_time = time.time()\nfor url in urls:\n    fetch_sync(url)\nend_time = time.time()\nprint(f\"\\nСинхронное выполнение заняло: {end_time - start_time:.2f} секунд.\")",
+        "detail": "async.homework.preview",
+        "documentation": {}
+    },
+    {
+        "label": "end_time",
+        "kind": 5,
+        "importPath": "async.homework.preview",
+        "description": "async.homework.preview",
+        "peekOfCode": "end_time = time.time()\nprint(f\"\\nСинхронное выполнение заняло: {end_time - start_time:.2f} секунд.\")",
+        "detail": "async.homework.preview",
+        "documentation": {}
+    },
+    {
+        "label": "urls",
+        "kind": 5,
+        "importPath": "async.homework.preview_async",
+        "description": "async.homework.preview_async",
+        "peekOfCode": "urls = [\n    'https://httpbin.org/delay/2',\n    'https://httpbin.org/delay/2',\n    'https://httpbin.org/delay/2',\n]\nasync def fetch_async(session, url):\n    \"\"\"Асинхронно выполняет запрос к URL.\"\"\"\n    print(f\"Запрашиваю {url}...\")\n    async with session.get(url) as response:\n        await response.text()",
+        "detail": "async.homework.preview_async",
+        "documentation": {}
+    },
+    {
+        "label": "start_time",
+        "kind": 5,
+        "importPath": "async.homework.preview_async",
+        "description": "async.homework.preview_async",
+        "peekOfCode": "start_time = time.time()\n# Запускаем выполнение асинхронной программы\nasyncio.run(main())\nend_time = time.time()\nprint(f\"\\nАсинхронное выполнение заняло: {end_time - start_time:.2f} секунд.\")",
+        "detail": "async.homework.preview_async",
+        "documentation": {}
+    },
+    {
+        "label": "end_time",
+        "kind": 5,
+        "importPath": "async.homework.preview_async",
+        "description": "async.homework.preview_async",
+        "peekOfCode": "end_time = time.time()\nprint(f\"\\nАсинхронное выполнение заняло: {end_time - start_time:.2f} секунд.\")",
+        "detail": "async.homework.preview_async",
+        "documentation": {}
+    },
+    {
+        "label": "urls",
+        "kind": 5,
+        "importPath": "async.homework.Задача3",
+        "description": "async.homework.Задача3",
+        "peekOfCode": "urls = [\n    \"https://www.python.org\",\n    \"https://www.google.com\",\n    \"https://non-existent-domain-12345.org\",\n]\nasync def check_status(session, url: str):\n    try:\n        async with session.get(url) as response:\n            if response.status == 200:\n                print(f\"Сайт {url}: Ok\")",
+        "detail": "async.homework.Задача3",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "datetime.homework..venv.Scripts.activate_this",
+        "description": "datetime.homework..venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"datetime_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "datetime.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "datetime.homework..venv.Scripts.activate_this",
+        "description": "datetime.homework..venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"datetime_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": "datetime.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "datetime.homework..venv.Scripts.activate_this",
+        "description": "datetime.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"datetime_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "datetime.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "datetime.homework..venv.Scripts.activate_this",
+        "description": "datetime.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"datetime_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "datetime.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "datetime.homework..venv.Scripts.activate_this",
+        "description": "datetime.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"datetime_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "datetime.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "datetime.homework..venv.Scripts.activate_this",
+        "description": "datetime.homework..venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "datetime.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "datetime.homework..venv.Scripts.activate_this",
+        "description": "datetime.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "datetime.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "datetime.homework..venv.Scripts.activate_this",
+        "description": "datetime.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "datetime.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "datetime.homework..venv.Scripts.activate_this",
+        "description": "datetime.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "datetime.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_return_date",
+        "kind": 2,
+        "importPath": "datetime.homework.tasks.task_1",
+        "description": "datetime.homework.tasks.task_1",
+        "peekOfCode": "def calculate_return_date(days):\n    \"\"\"\n    Функция, которая принимает на вход количество дней (например, 14) \n    и возвращает будущую дату, которая наступит через указанное количество дней \n    от текущего момента.\n    Args:\n        days (int): Количество дней от текущего момента\n    Returns:\n        datetime: Будущая дата\n    \"\"\"",
+        "detail": "datetime.homework.tasks.task_1",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_age",
+        "kind": 2,
+        "importPath": "datetime.homework.tasks.task_2",
+        "description": "datetime.homework.tasks.task_2",
+        "peekOfCode": "def calculate_age(birth_date_str):\n    \"\"\"\n    Функция, которая принимает на вход строку с датой рождения в формате \"ГГГГ-ММ-ДД\" \n    и вычисляет, сколько полных лет исполнилось человеку на сегодняшний день.\n    Args:\n        birth_date_str (str): Дата рождения в формате \"ГГГГ-ММ-ДД\"\n    Returns:\n        int: Количество полных лет\n    \"\"\"\n    return (datetime.now() - datetime.strptime(birth_date_str, \"%Y-%m-%d\")).days//365",
+        "detail": "datetime.homework.tasks.task_2",
+        "documentation": {}
+    },
+    {
+        "label": "format_news_date",
+        "kind": 2,
+        "importPath": "datetime.homework.tasks.task_3",
+        "description": "datetime.homework.tasks.task_3",
+        "peekOfCode": "def format_news_date() -> str:\n    \"\"\"\n    Функция, которая возвращает текущую дату и день недели \n    в формате \"Сегодня Понедельник, 26 сентября 2025 г.\".\n    Returns:\n        str: Отформатированная строка с текущей датой\n    \"\"\"\n    # Словарь для перевода английских названий дней недели на русский\n    # Для корректного вывода названий на русском может потребоваться настройка локали\n    import locale",
+        "detail": "datetime.homework.tasks.task_3",
+        "documentation": {}
+    },
+    {
+        "label": "validate_date_format",
+        "kind": 2,
+        "importPath": "datetime.homework.tasks.task_4",
+        "description": "datetime.homework.tasks.task_4",
+        "peekOfCode": "def validate_date_format(date_str):\n    \"\"\"\n    Функция, которая принимает на вход строку и проверяет,\n    является ли она корректной датой в формате \"ДД/ММ/ГГГГ\".\n    Функция должна вернуть True, если формат верный и дата существует\n    (например, не \"32/13/2025\"), и False в противном случае.\n    Args:\n        date_str (str): Строка с датой в формате \"ДД/ММ/ГГГГ\"\n    Returns:\n        bool: True, если дата корректна, иначе False",
+        "detail": "datetime.homework.tasks.task_4",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_timestamps",
+        "kind": 2,
+        "importPath": "datetime.homework.tasks.task_5",
+        "description": "datetime.homework.tasks.task_5",
+        "peekOfCode": "def analyze_timestamps(start_time, end_time):\n    \"\"\"\n    Функция, которая принимает две строки с временными метками:\n    start_time = \"2025-09-26 10:55:00\" и end_time = \"2025-09-26 11:07:30\".\n    Вычисляет разницу между ними и возвращает результат в виде строки:\n    \"Операция заняла: 12 минут 30 секунд.\".\n    Args:\n        start_time (str): Начальное время в формате \"ГГГГ-ММ-ДД ЧЧ:ММ:СС\"\n        end_time (str): Конечное время в формате \"ГГГГ-ММ-ДД ЧЧ:ММ:СС\"\n    Returns:",
+        "detail": "datetime.homework.tasks.task_5",
+        "documentation": {}
+    },
+    {
+        "label": "TestCalculateReturnDate",
+        "kind": 6,
+        "importPath": "datetime.homework.tests.test_task_1",
+        "description": "datetime.homework.tests.test_task_1",
+        "peekOfCode": "class TestCalculateReturnDate(unittest.TestCase):\n    def test_positive_days(self):\n        \"\"\"Тест с положительным количеством дней\"\"\"\n        days = 14\n        result = calculate_return_date(days)\n        expected = datetime.now() + timedelta(days=days)\n        # Проверяем, что разница не больше 1 секунды (из-за времени выполнения)\n        self.assertAlmostEqual(result.timestamp(), expected.timestamp(), delta=1)\n    def test_zero_days(self):\n        \"\"\"Тест с нулевым количеством дней\"\"\"",
+        "detail": "datetime.homework.tests.test_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "TestCalculateAge",
+        "kind": 6,
+        "importPath": "datetime.homework.tests.test_task_2",
+        "description": "datetime.homework.tests.test_task_2",
+        "peekOfCode": "class TestCalculateAge(unittest.TestCase):\n    def test_birthday_passed(self):\n        \"\"\"Тест, когда день рождения уже прошел в этом году\"\"\"\n        birth_date = \"1990-01-01\"\n        # В реальности возраст будет зависеть от текущей даты\n        # Для теста предположим, что сегодня 2025-09-26\n        result = calculate_age(birth_date)\n        # Если родился в 1990 и день рождения уже прошел в 2025, то должно быть 35 лет\n        self.assertGreaterEqual(result, 35)  # возраст >= 35\n    def test_birthday_not_passed(self):",
+        "detail": "datetime.homework.tests.test_task_2",
+        "documentation": {}
+    },
+    {
+        "label": "TestFormatNewsDate",
+        "kind": 6,
+        "importPath": "datetime.homework.tests.test_task_3",
+        "description": "datetime.homework.tests.test_task_3",
+        "peekOfCode": "class TestFormatNewsDate(unittest.TestCase):\n    def test_format_structure(self):\n        \"\"\"Тест структуры формата даты\"\"\"\n        result: str = format_news_date()\n        # Проверяем, что строка начинается с \"Сегодня\"\n        self.assertTrue(result.startswith(\"Сегодня \"))\n        # Проверяем, что строка содержит день недели\n        weekdays = [\n            \"Понедельник\",\n            \"Вторник\",",
+        "detail": "datetime.homework.tests.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "TestValidateDateFormat",
+        "kind": 6,
+        "importPath": "datetime.homework.tests.test_task_4",
+        "description": "datetime.homework.tests.test_task_4",
+        "peekOfCode": "class TestValidateDateFormat(unittest.TestCase):\n    def test_valid_dates(self):\n        \"\"\"Тест корректных дат\"\"\"\n        valid_dates = [\n            \"01/01/2025\",\n            \"31/12/2025\",\n            \"29/02/2024\",  # високосный год\n            \"15/07/1990\"\n        ]\n        for date in valid_dates:",
+        "detail": "datetime.homework.tests.test_task_4",
+        "documentation": {}
+    },
+    {
+        "label": "TestAnalyzeTimestamps",
+        "kind": 6,
+        "importPath": "datetime.homework.tests.test_task_5",
+        "description": "datetime.homework.tests.test_task_5",
+        "peekOfCode": "class TestAnalyzeTimestamps(unittest.TestCase):\n    def test_example_case(self):\n        \"\"\"Тест с примером из задания\"\"\"\n        start_time = \"2025-09-26 10:55:00\"\n        end_time = \"2025-09-26 11:07:30\"\n        result = analyze_timestamps(start_time, end_time)\n        self.assertEqual(result, \"Операция заняла: 12 минут 30 секунд.\")\n    def test_same_time(self):\n        \"\"\"Тест с одинаковым временем\"\"\"\n        start_time = \"2025-09-26 10:00:00\"",
+        "detail": "datetime.homework.tests.test_task_5",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "datetime.homework.main",
+        "description": "datetime.homework.main",
+        "peekOfCode": "def main():\n    print(\"Hello from datetime-homework!\")\nif __name__ == \"__main__\":\n    main()",
+        "detail": "datetime.homework.main",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "Decorator.homework..venv.Scripts.activate_this",
+        "description": "Decorator.homework..venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"Decorator.homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "Decorator.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "Decorator.homework..venv.Scripts.activate_this",
+        "description": "Decorator.homework..venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"Decorator.homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": "Decorator.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "Decorator.homework..venv.Scripts.activate_this",
+        "description": "Decorator.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"Decorator.homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "Decorator.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "Decorator.homework..venv.Scripts.activate_this",
+        "description": "Decorator.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"Decorator.homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "Decorator.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "Decorator.homework..venv.Scripts.activate_this",
+        "description": "Decorator.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"Decorator.homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "Decorator.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "Decorator.homework..venv.Scripts.activate_this",
+        "description": "Decorator.homework..venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "Decorator.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "Decorator.homework..venv.Scripts.activate_this",
+        "description": "Decorator.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "Decorator.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "Decorator.homework..venv.Scripts.activate_this",
+        "description": "Decorator.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "Decorator.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "Decorator.homework..venv.Scripts.activate_this",
+        "description": "Decorator.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "Decorator.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "test_passing",
+        "kind": 2,
+        "importPath": "Decorator.homework.test_1",
+        "description": "Decorator.homework.test_1",
+        "peekOfCode": "def test_passing():\n\tassert Задача1.greet('World', greeting='Hello') == \"'greet' вернула 'Hello, World!'\"\ndef test_not_passing():\n\tassert Задача1.greet('World', greeting='hello') != \"'greet' вернула 'Hello, World!'\"",
+        "detail": "Decorator.homework.test_1",
+        "documentation": {}
+    },
+    {
+        "label": "test_not_passing",
+        "kind": 2,
+        "importPath": "Decorator.homework.test_1",
+        "description": "Decorator.homework.test_1",
+        "peekOfCode": "def test_not_passing():\n\tassert Задача1.greet('World', greeting='hello') != \"'greet' вернула 'Hello, World!'\"",
+        "detail": "Decorator.homework.test_1",
+        "documentation": {}
+    },
+    {
+        "label": "debug",
+        "kind": 2,
+        "importPath": "Decorator.homework.Задача1",
+        "description": "Decorator.homework.Задача1",
+        "peekOfCode": "def debug(func):\n\t@functools.wraps(func)\n\tdef wrapper(*args, **kwargs):\n\t\tresult: str = ''\n\t\tresult = func(*args, **kwargs)\n\t\treturn f\"'{func.__name__}' вернула '{result}'\"\n\treturn wrapper\n# Пример использования:\n@debug\ndef greet(name: str, greeting: str=\"Hello\") -> str:",
+        "detail": "Decorator.homework.Задача1",
+        "documentation": {}
+    },
+    {
+        "label": "greet",
+        "kind": 2,
+        "importPath": "Decorator.homework.Задача1",
+        "description": "Decorator.homework.Задача1",
+        "peekOfCode": "def greet(name: str, greeting: str=\"Hello\") -> str:\n\treturn f\"{greeting}, {name}!\"\n# Ожидаемый вывод:\n# Вызывается greet('World', greeting='Hello')\n# 'greet' вернула 'Hello, World!'\nif __name__ == '__main__':\n\tprint(greet(\"World\"))",
+        "detail": "Decorator.homework.Задача1",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tresult",
+        "kind": 5,
+        "importPath": "Decorator.homework.Задача1",
+        "description": "Decorator.homework.Задача1",
+        "peekOfCode": "\t\tresult = func(*args, **kwargs)\n\t\treturn f\"'{func.__name__}' вернула '{result}'\"\n\treturn wrapper\n# Пример использования:\n@debug\ndef greet(name: str, greeting: str=\"Hello\") -> str:\n\treturn f\"{greeting}, {name}!\"\n# Ожидаемый вывод:\n# Вызывается greet('World', greeting='Hello')\n# 'greet' вернула 'Hello, World!'",
+        "detail": "Decorator.homework.Задача1",
+        "documentation": {}
+    },
+    {
+        "label": "get_status",
+        "kind": 2,
+        "importPath": "Decorator.homework.Задача2",
+        "description": "Decorator.homework.Задача2",
+        "peekOfCode": "def get_status(code):\n    return f\"Status code is {code}\"\nprint(get_status(200)) # Выведет: [LOG]: Status code is 200\nprint(get_status(404)) # Выведет: [LOG]: Status code is 404",
+        "detail": "Decorator.homework.Задача2",
+        "documentation": {}
+    },
+    {
+        "label": "process_request",
+        "kind": 2,
+        "importPath": "Decorator.homework.Задача3",
+        "description": "Decorator.homework.Задача3",
+        "peekOfCode": "def process_request(**kwargs):\n    print(f\"Обработка запроса с параметрами: {kwargs}\")\nprocess_request(user_id=10, role=\"admin\", action=\"delete\") # OK\n# process_request(user_id=11, action=\"read\") # Вызовет TypeError",
+        "detail": "Decorator.homework.Задача3",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_data",
+        "kind": 2,
+        "importPath": "Decorator.homework.Задача4",
+        "description": "Decorator.homework.Задача4",
+        "peekOfCode": "def get_user_data(user_id):\n    return {\"id\": user_id, \"name\": \"John Doe\", \"permissions\": [\"read\", \"write\"]}\njson_string = get_user_data(123)\nprint(json_string)\n# Выведет: {\"id\": 123, \"name\": \"John Doe\", \"permissions\": [\"read\", \"write\"]}\nprint(type(json_string)) # Выведет: <class 'str'>",
+        "detail": "Decorator.homework.Задача4",
+        "documentation": {}
+    },
+    {
+        "label": "json_string",
+        "kind": 5,
+        "importPath": "Decorator.homework.Задача4",
+        "description": "Decorator.homework.Задача4",
+        "peekOfCode": "json_string = get_user_data(123)\nprint(json_string)\n# Выведет: {\"id\": 123, \"name\": \"John Doe\", \"permissions\": [\"read\", \"write\"]}\nprint(type(json_string)) # Выведет: <class 'str'>",
+        "detail": "Decorator.homework.Задача4",
+        "documentation": {}
+    },
+    {
+        "label": "send_email",
+        "kind": 2,
+        "importPath": "Decorator.homework.Задача5",
+        "description": "Decorator.homework.Задача5",
+        "peekOfCode": "def send_email(address):\n    print(f\"Отправляю письмо на {address}\")\nsend_email(\"a@ex.com\") # OK\nsend_email(\"b@ex.com\") # OK\nsend_email(\"c@ex.com\") # OK\n# send_email(\"d@ex.com\") # Вызовет ValueError\ndef call_limit(limit: int) -> Callable:\n\tdef decorator(func):\n\t\tdef wrapper(*args, **kwargs):",
+        "detail": "Decorator.homework.Задача5",
+        "documentation": {}
+    },
+    {
+        "label": "call_limit",
+        "kind": 2,
+        "importPath": "Decorator.homework.Задача5",
+        "description": "Decorator.homework.Задача5",
+        "peekOfCode": "def call_limit(limit: int) -> Callable:\n\tdef decorator(func):\n\t\tdef wrapper(*args, **kwargs):",
+        "detail": "Decorator.homework.Задача5",
+        "documentation": {}
+    },
+    {
+        "label": "greet",
+        "kind": 2,
+        "importPath": "Decorator.homework.Задачи",
+        "description": "Decorator.homework.Задачи",
+        "peekOfCode": "def greet(name, greeting=\"Hello\"):\n    return f\"{greeting}, {name}!\"\ngreet(\"World\")\n# Ожидаемый вывод:\n# Вызывается greet('World', greeting='Hello')\n# 'greet' вернула 'Hello, World!'\n# Задача 2 (Легкая+): Фабрика декораторов `@prefix`\n# Условие:\n# Напишите фабрику декораторов prefix, которая принимает строку-префикс. Декоратор, который она возвращает, должен добавлять этот префикс к результату выполнения декорируемой функции.\n# Требования:",
+        "detail": "Decorator.homework.Задачи",
+        "documentation": {}
+    },
+    {
+        "label": "get_status",
+        "kind": 2,
+        "importPath": "Decorator.homework.Задачи",
+        "description": "Decorator.homework.Задачи",
+        "peekOfCode": "def get_status(code):\n    return f\"Status code is {code}\"\nprint(get_status(200)) # Выведет: [LOG]: Status code is 200\nprint(get_status(404)) # Выведет: [LOG]: Status code is 404\n# Задача 3 (Средняя): Декоратор `@require_kwargs`\n# Условие:\n# Напишите фабрику декораторов require_kwargs, которая проверяет, что при вызове функции ей были переданы определенные именованные аргументы.\n# Требования:\n# Фабрика должна принимать переменное количество строковых аргументов — имена обязательных kwargs.\n# Если хотя бы один из требуемых kwargs отсутствует при вызове функции, декоратор должен вызывать TypeError.",
+        "detail": "Decorator.homework.Задачи",
+        "documentation": {}
+    },
+    {
+        "label": "process_request",
+        "kind": 2,
+        "importPath": "Decorator.homework.Задачи",
+        "description": "Decorator.homework.Задачи",
+        "peekOfCode": "def process_request(**kwargs):\n    print(f\"Обработка запроса с параметрами: {kwargs}\")\nprocess_request(user_id=10, role=\"admin\", action=\"delete\") # OK\n# process_request(user_id=11, action=\"read\") # Вызовет TypeError\n# Задача 4 (Средняя+): Декоратор `@to_json`\n# Условие:\n# Напишите декоратор @to_json, который преобразует результат выполнения функции (предполагается, что это словарь) в строку формата JSON.\n# Требования:\n# Декоратор должен быть простым (без параметров).\n# Вам понадобится import json и функция json.dumps().",
+        "detail": "Decorator.homework.Задачи",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_data",
+        "kind": 2,
+        "importPath": "Decorator.homework.Задачи",
+        "description": "Decorator.homework.Задачи",
+        "peekOfCode": "def get_user_data(user_id):\n    return {\"id\": user_id, \"name\": \"John Doe\", \"permissions\": [\"read\", \"write\"]}\njson_string = get_user_data(123)\nprint(json_string) \n# Выведет: {\"id\": 123, \"name\": \"John Doe\", \"permissions\": [\"read\", \"write\"]}\nprint(type(json_string)) # Выведет: <class 'str'>\n# Задача 5 (Сложная): Декоратор `@call_limit`\n# Условие:\n# Напишите фабрику декораторов call_limit, которая позволяет вызвать функцию не более указанного количества раз.\n# Требования:",
+        "detail": "Decorator.homework.Задачи",
+        "documentation": {}
+    },
+    {
+        "label": "send_email",
+        "kind": 2,
+        "importPath": "Decorator.homework.Задачи",
+        "description": "Decorator.homework.Задачи",
+        "peekOfCode": "def send_email(address):\n    print(f\"Отправляю письмо на {address}\")\nsend_email(\"a@ex.com\") # OK\nsend_email(\"b@ex.com\") # OK\nsend_email(\"c@ex.com\") # OK\n# send_email(\"d@ex.com\") # Вызовет ValueError",
+        "detail": "Decorator.homework.Задачи",
+        "documentation": {}
+    },
+    {
+        "label": "json_string",
+        "kind": 5,
+        "importPath": "Decorator.homework.Задачи",
+        "description": "Decorator.homework.Задачи",
+        "peekOfCode": "json_string = get_user_data(123)\nprint(json_string) \n# Выведет: {\"id\": 123, \"name\": \"John Doe\", \"permissions\": [\"read\", \"write\"]}\nprint(type(json_string)) # Выведет: <class 'str'>\n# Задача 5 (Сложная): Декоратор `@call_limit`\n# Условие:\n# Напишите фабрику декораторов call_limit, которая позволяет вызвать функцию не более указанного количества раз.\n# Требования:\n# Фабрика должна принимать один аргумент limit — целое число.\n# При попытке вызвать функцию больше, чем limit раз, декоратор должен вызывать ValueError.",
+        "detail": "Decorator.homework.Задачи",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "json.homework.main",
+        "description": "json.homework.main",
+        "peekOfCode": "def main():\n    print(\"Hello from json-homework!\")\nif __name__ == \"__main__\":\n    main()",
+        "detail": "json.homework.main",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "json.homework.msgspec",
+        "description": "json.homework.msgspec",
+        "peekOfCode": "class User(msgspec.Struct):\n    name: str\n    email: str | None = None\n# Создаем декодер для нашего типа\ndecoder = msgspec.json.Decoder(User)\n# Декодируем и валидируем JSON\nuser_obj = decoder.decode(b'{\"name\": \"Андрей\", \"email\": \"andrew@example.com\"}')\nprint(user_obj)\n# User(name='Андрей', email='andrew@example.com')\n# Попытка декодировать некорректные данные вызовет ошибку",
+        "detail": "json.homework.msgspec",
+        "documentation": {}
+    },
+    {
+        "label": "decoder",
+        "kind": 5,
+        "importPath": "json.homework.msgspec",
+        "description": "json.homework.msgspec",
+        "peekOfCode": "decoder = msgspec.json.Decoder(User)\n# Декодируем и валидируем JSON\nuser_obj = decoder.decode(b'{\"name\": \"Андрей\", \"email\": \"andrew@example.com\"}')\nprint(user_obj)\n# User(name='Андрей', email='andrew@example.com')\n# Попытка декодировать некорректные данные вызовет ошибку\n# decoder.decode(b'{\"name\": 123}')\n# -> msgspec.ValidationError",
+        "detail": "json.homework.msgspec",
+        "documentation": {}
+    },
+    {
+        "label": "user_obj",
+        "kind": 5,
+        "importPath": "json.homework.msgspec",
+        "description": "json.homework.msgspec",
+        "peekOfCode": "user_obj = decoder.decode(b'{\"name\": \"Андрей\", \"email\": \"andrew@example.com\"}')\nprint(user_obj)\n# User(name='Андрей', email='andrew@example.com')\n# Попытка декодировать некорректные данные вызовет ошибку\n# decoder.decode(b'{\"name\": 123}')\n# -> msgspec.ValidationError",
+        "detail": "json.homework.msgspec",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "json.homework.orjson",
+        "description": "json.homework.orjson",
+        "peekOfCode": "class User:\n    name: str\n    signup_ts: datetime\nuser = User(\"Елена\", datetime.now())\n# orjson легко сериализует dataclass и datetime\njson_bytes = orjson.dumps(user)\nprint(json_bytes)\n# b'{\"name\":\"\\xd0\\x95\\xd0\\xbb\\xd0\\xb5\\xd0\\xbd\\xd0\\xb0\",\"signup_ts\":\"2025-10-26T08:22:00.123456+00:00\"}'\n# Десериализация\ndata = orjson.loads(json_bytes)",
+        "detail": "json.homework.orjson",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 5,
+        "importPath": "json.homework.orjson",
+        "description": "json.homework.orjson",
+        "peekOfCode": "user = User(\"Елена\", datetime.now())\n# orjson легко сериализует dataclass и datetime\njson_bytes = orjson.dumps(user)\nprint(json_bytes)\n# b'{\"name\":\"\\xd0\\x95\\xd0\\xbb\\xd0\\xb5\\xd0\\xbd\\xd0\\xb0\",\"signup_ts\":\"2025-10-26T08:22:00.123456+00:00\"}'\n# Десериализация\ndata = orjson.loads(json_bytes)\nprint(data)\n# {'name': 'Елена', 'signup_ts': '2025-10-26T08:22:00.123456+00:00'}",
+        "detail": "json.homework.orjson",
+        "documentation": {}
+    },
+    {
+        "label": "json_bytes",
+        "kind": 5,
+        "importPath": "json.homework.orjson",
+        "description": "json.homework.orjson",
+        "peekOfCode": "json_bytes = orjson.dumps(user)\nprint(json_bytes)\n# b'{\"name\":\"\\xd0\\x95\\xd0\\xbb\\xd0\\xb5\\xd0\\xbd\\xd0\\xb0\",\"signup_ts\":\"2025-10-26T08:22:00.123456+00:00\"}'\n# Десериализация\ndata = orjson.loads(json_bytes)\nprint(data)\n# {'name': 'Елена', 'signup_ts': '2025-10-26T08:22:00.123456+00:00'}",
+        "detail": "json.homework.orjson",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "json.homework.orjson",
+        "description": "json.homework.orjson",
+        "peekOfCode": "data = orjson.loads(json_bytes)\nprint(data)\n# {'name': 'Елена', 'signup_ts': '2025-10-26T08:22:00.123456+00:00'}",
+        "detail": "json.homework.orjson",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_FILE",
+        "kind": 5,
+        "importPath": "json.homework.read_config",
+        "description": "json.homework.read_config",
+        "peekOfCode": "CONFIG_FILE = \"config.json\"\ntry:\n    with open(CONFIG_FILE, \"r\", encoding=\"utf-8\") as f:\n        # Загружаем всю конфигурацию из файла в один словарь\n        config = json.load(f)\n    # Теперь мы можем легко обращаться к любым параметрам\n    print(f\"Запускаем приложение: {config['app_name']} (версия {config['version']})\")\n    if config[\"debug_mode\"]:\n        print(\"Внимание: приложение запущено в режиме отладки!\")\n    db_host = config[\"database\"][\"host\"]",
+        "detail": "json.homework.read_config",
+        "documentation": {}
+    },
+    {
+        "label": "user_data",
+        "kind": 5,
+        "importPath": "json.homework.sample1",
+        "description": "json.homework.sample1",
+        "peekOfCode": "user_data = {\n    \"name\": \"Иван Иванов\",\n    \"age\": 30,\n    \"is_active\": True,\n    \"courses\": [\"Python\", \"Git\"],\n    \"passport\": None\n}\n# Сериализуем в JSON-строку\njson_string = json.dumps(user_data)\nprint(json_string)",
+        "detail": "json.homework.sample1",
+        "documentation": {}
+    },
+    {
+        "label": "json_string",
+        "kind": 5,
+        "importPath": "json.homework.sample1",
+        "description": "json.homework.sample1",
+        "peekOfCode": "json_string = json.dumps(user_data)\nprint(json_string)\n# Вывод: {\"name\": \"\\u0418\\u0432\\u0430\\u043d \\u0418\\u0432\\u0430\\u043d\\u043e\\u0432\", \"age\": 30, \"is_active\": true, \"courses\": [\"Python\", \"Git\"], \"passport\": null}\n# Используем ensure_ascii=False для корректного отображения кириллицы\njson_formatted_string = json.dumps(user_data, indent=4, sort_keys=True, ensure_ascii=False)\nprint(json_formatted_string)",
+        "detail": "json.homework.sample1",
+        "documentation": {}
+    },
+    {
+        "label": "json_formatted_string",
+        "kind": 5,
+        "importPath": "json.homework.sample1",
+        "description": "json.homework.sample1",
+        "peekOfCode": "json_formatted_string = json.dumps(user_data, indent=4, sort_keys=True, ensure_ascii=False)\nprint(json_formatted_string)",
+        "detail": "json.homework.sample1",
+        "documentation": {}
+    },
+    {
+        "label": "json_data",
+        "kind": 5,
+        "importPath": "json.homework.sample2",
+        "description": "json.homework.sample2",
+        "peekOfCode": "json_data = '{\"name\": \"Анна Петрова\", \"city\": \"Москва\", \"skills\": [\"SQL\", \"Power BI\"]}'\n# Десериализуем строку в словарь Python\npython_dict = json.loads(json_data)\nprint(python_dict)\n# Вывод: {'name': 'Анна Петрова', 'city': 'Москва', 'skills': ['SQL', 'Power BI']}\n# Теперь можно работать с ним как с обычным словарем\nprint(f\"Имя: {python_dict['name']}\")\n# Вывод: Имя: Анна Петрова",
+        "detail": "json.homework.sample2",
+        "documentation": {}
+    },
+    {
+        "label": "python_dict",
+        "kind": 5,
+        "importPath": "json.homework.sample2",
+        "description": "json.homework.sample2",
+        "peekOfCode": "python_dict = json.loads(json_data)\nprint(python_dict)\n# Вывод: {'name': 'Анна Петрова', 'city': 'Москва', 'skills': ['SQL', 'Power BI']}\n# Теперь можно работать с ним как с обычным словарем\nprint(f\"Имя: {python_dict['name']}\")\n# Вывод: Имя: Анна Петрова",
+        "detail": "json.homework.sample2",
+        "documentation": {}
+    },
+    {
+        "label": "user_profile",
+        "kind": 5,
+        "importPath": "json.homework.sample3",
+        "description": "json.homework.sample3",
+        "peekOfCode": "user_profile = {\n    \"user_id\": 123,\n    \"username\": \"coder2025\",\n    \"settings\": {\n        \"theme\": \"dark\",\n        \"notifications\": True\n    }\n}\n# Открываем файл для записи\nwith open(\"profile.json\", \"w\", encoding=\"utf-8\") as f:",
+        "detail": "json.homework.sample3",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "json.homework.sample5",
+        "description": "json.homework.sample5",
+        "peekOfCode": "class User:\n    def __init__(self, name, email):\n        self.name = name\n        self.email = email\nuser = User(\"Алиса\", \"alice@example.com\")\n# Попытка сериализации\n# json.dumps(user)\n# -> TypeError: Object of type User is not JSON serializable\ndef user_serializer(obj):\n    if isinstance(obj, User):",
+        "detail": "json.homework.sample5",
+        "documentation": {}
+    },
+    {
+        "label": "user_serializer",
+        "kind": 2,
+        "importPath": "json.homework.sample5",
+        "description": "json.homework.sample5",
+        "peekOfCode": "def user_serializer(obj):\n    if isinstance(obj, User):\n        return {\"name\": obj.name, \"email\": obj.email}\n    # Для других типов данных, которые могут вызвать ошибку,\n    # вызываем стандартный обработчик\n    raise TypeError(f\"Object of type {type(obj).__name__} is not JSON serializable\")\n# вариант с default\njson_string = json.dumps(user, default=user_serializer, indent=4, ensure_ascii=False)\nprint(json_string)\n# вариант с __dict__",
+        "detail": "json.homework.sample5",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 5,
+        "importPath": "json.homework.sample5",
+        "description": "json.homework.sample5",
+        "peekOfCode": "user = User(\"Алиса\", \"alice@example.com\")\n# Попытка сериализации\n# json.dumps(user)\n# -> TypeError: Object of type User is not JSON serializable\ndef user_serializer(obj):\n    if isinstance(obj, User):\n        return {\"name\": obj.name, \"email\": obj.email}\n    # Для других типов данных, которые могут вызвать ошибку,\n    # вызываем стандартный обработчик\n    raise TypeError(f\"Object of type {type(obj).__name__} is not JSON serializable\")",
+        "detail": "json.homework.sample5",
+        "documentation": {}
+    },
+    {
+        "label": "json_string",
+        "kind": 5,
+        "importPath": "json.homework.sample5",
+        "description": "json.homework.sample5",
+        "peekOfCode": "json_string = json.dumps(user, default=user_serializer, indent=4, ensure_ascii=False)\nprint(json_string)\n# вариант с __dict__\njson_string = json.dumps(user.__dict__, indent=4, ensure_ascii=False)\nprint(json_string)",
+        "detail": "json.homework.sample5",
+        "documentation": {}
+    },
+    {
+        "label": "json_string",
+        "kind": 5,
+        "importPath": "json.homework.sample5",
+        "description": "json.homework.sample5",
+        "peekOfCode": "json_string = json.dumps(user.__dict__, indent=4, ensure_ascii=False)\nprint(json_string)",
+        "detail": "json.homework.sample5",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "json.homework.sample6",
+        "description": "json.homework.sample6",
+        "peekOfCode": "class User:\n    def __init__(self, name, email):\n        self.name = name\n        self.email = email\nuser = User(\"Алиса\", \"alice@example.com\")\nclass CustomEncoder(JSONEncoder):\n    def default(self, o):\n        if isinstance(o, User):\n            return {\"name\": o.name, \"email\": o.email}\n        # Вызываем родительский метод для обработки стандартных типов",
+        "detail": "json.homework.sample6",
+        "documentation": {}
+    },
+    {
+        "label": "CustomEncoder",
+        "kind": 6,
+        "importPath": "json.homework.sample6",
+        "description": "json.homework.sample6",
+        "peekOfCode": "class CustomEncoder(JSONEncoder):\n    def default(self, o):\n        if isinstance(o, User):\n            return {\"name\": o.name, \"email\": o.email}\n        # Вызываем родительский метод для обработки стандартных типов\n        # или выброса TypeError\n        return super().default(o)\njson_string = json.dumps(user, cls=CustomEncoder, indent=4, ensure_ascii=False)\nprint(json_string)",
+        "detail": "json.homework.sample6",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 5,
+        "importPath": "json.homework.sample6",
+        "description": "json.homework.sample6",
+        "peekOfCode": "user = User(\"Алиса\", \"alice@example.com\")\nclass CustomEncoder(JSONEncoder):\n    def default(self, o):\n        if isinstance(o, User):\n            return {\"name\": o.name, \"email\": o.email}\n        # Вызываем родительский метод для обработки стандартных типов\n        # или выброса TypeError\n        return super().default(o)\njson_string = json.dumps(user, cls=CustomEncoder, indent=4, ensure_ascii=False)\nprint(json_string)",
+        "detail": "json.homework.sample6",
+        "documentation": {}
+    },
+    {
+        "label": "json_string",
+        "kind": 5,
+        "importPath": "json.homework.sample6",
+        "description": "json.homework.sample6",
+        "peekOfCode": "json_string = json.dumps(user, cls=CustomEncoder, indent=4, ensure_ascii=False)\nprint(json_string)",
+        "detail": "json.homework.sample6",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "json.homework.sample7",
+        "description": "json.homework.sample7",
+        "peekOfCode": "class User:\n    def __init__(self, name, email):\n        self.name = name\n        self.email = email\n    def __repr__(self):\n        return f\"<User {self.name} ({self.email})>\"\ndef user_decoder(dct):\n    # Проверяем, похож ли словарь на нашего пользователя (например, по ключам)\n    if \"name\" in dct and \"email\" in dct:\n        return User(dct[\"name\"], dct[\"email\"])",
+        "detail": "json.homework.sample7",
+        "documentation": {}
+    },
+    {
+        "label": "user_decoder",
+        "kind": 2,
+        "importPath": "json.homework.sample7",
+        "description": "json.homework.sample7",
+        "peekOfCode": "def user_decoder(dct):\n    # Проверяем, похож ли словарь на нашего пользователя (например, по ключам)\n    if \"name\" in dct and \"email\" in dct:\n        return User(dct[\"name\"], dct[\"email\"])\n    return dct\njson_string = '{\"name\": \"Алиса\", \"email\": \"alice@example.com\"}'\n# Десериализуем строку с использованием object_hook\nuser_obj = json.loads(json_string, object_hook=user_decoder)\nprint(user_obj)\nprint(type(user_obj))",
+        "detail": "json.homework.sample7",
+        "documentation": {}
+    },
+    {
+        "label": "json_string",
+        "kind": 5,
+        "importPath": "json.homework.sample7",
+        "description": "json.homework.sample7",
+        "peekOfCode": "json_string = '{\"name\": \"Алиса\", \"email\": \"alice@example.com\"}'\n# Десериализуем строку с использованием object_hook\nuser_obj = json.loads(json_string, object_hook=user_decoder)\nprint(user_obj)\nprint(type(user_obj))",
+        "detail": "json.homework.sample7",
+        "documentation": {}
+    },
+    {
+        "label": "user_obj",
+        "kind": 5,
+        "importPath": "json.homework.sample7",
+        "description": "json.homework.sample7",
+        "peekOfCode": "user_obj = json.loads(json_string, object_hook=user_decoder)\nprint(user_obj)\nprint(type(user_obj))",
+        "detail": "json.homework.sample7",
+        "documentation": {}
+    },
+    {
+        "label": "invalid_json",
+        "kind": 5,
+        "importPath": "json.homework.sample8",
+        "description": "json.homework.sample8",
+        "peekOfCode": "invalid_json = f'{\"name\": \"Боб\", \"age\": 40,}'  # Лишняя запятая в конце\ntry:\n    data = json.loads(invalid_json)\n    print(\"JSON успешно разобран:\", data)\nexcept json.JSONDecodeError as e:\n    print(\"Ошибка декодирования JSON!\")\n    print(f\"Сообщение об ошибке: {e.msg}\")\n    print(f\"Строка: {e.lineno}, колонка: {e.colno}\")",
+        "detail": "json.homework.sample8",
+        "documentation": {}
+    },
+    {
+        "label": "username",
+        "kind": 5,
+        "importPath": "json.homework.sample9",
+        "description": "json.homework.sample9",
+        "peekOfCode": "username = \"user123\"\n# Формируем URL для запроса к API GitHub\nurl = f\"https://api.github.com/users/{username}/repos\"\ntry:\n    # Отправляем GET-запрос\n    response = requests.get(url)\n    # Проверяем, что запрос успешен (статус код 200)\n    response.raise_for_status()\n    # Десериализуем полученный JSON-ответ.\n    # Библиотека requests имеет встроенный метод .json(), который делает это за нас.",
+        "detail": "json.homework.sample9",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "json.homework.sample9",
+        "description": "json.homework.sample9",
+        "peekOfCode": "url = f\"https://api.github.com/users/{username}/repos\"\ntry:\n    # Отправляем GET-запрос\n    response = requests.get(url)\n    # Проверяем, что запрос успешен (статус код 200)\n    response.raise_for_status()\n    # Десериализуем полученный JSON-ответ.\n    # Библиотека requests имеет встроенный метод .json(), который делает это за нас.\n    # Это эквивалентно json.loads(response.text)\n    repos_data = response.json()",
+        "detail": "json.homework.sample9",
+        "documentation": {}
+    },
+    {
+        "label": "order_data",
+        "kind": 5,
+        "importPath": "json.homework.save_order",
+        "description": "json.homework.save_order",
+        "peekOfCode": "order_data = {\n    \"order_id\": 10543,\n    \"timestamp\": datetime.now().isoformat(),  # Используем стандартный формат ISO 8601 для даты\n    \"customer\": {\n        \"name\": \"Мария Смирнова\",\n        \"email\": \"m.smirnova@example.com\",\n        \"address\": {\n            \"city\": \"Санкт-Петербург\",\n            \"street\": \"Невский проспект\",\n            \"house\": \"10\",",
+        "detail": "json.homework.save_order",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "os.homework..venv.Scripts.activate_this",
+        "description": "os.homework..venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"os_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "os.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "os.homework..venv.Scripts.activate_this",
+        "description": "os.homework..venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"os_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": "os.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "os.homework..venv.Scripts.activate_this",
+        "description": "os.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"os_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "os.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "os.homework..venv.Scripts.activate_this",
+        "description": "os.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"os_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "os.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "os.homework..venv.Scripts.activate_this",
+        "description": "os.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"os_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "os.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "os.homework..venv.Scripts.activate_this",
+        "description": "os.homework..venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "os.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "os.homework..venv.Scripts.activate_this",
+        "description": "os.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "os.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "os.homework..venv.Scripts.activate_this",
+        "description": "os.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "os.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "os.homework..venv.Scripts.activate_this",
+        "description": "os.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "os.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "solve",
+        "kind": 2,
+        "importPath": "os.homework.tasks.task_1",
+        "description": "os.homework.tasks.task_1",
+        "peekOfCode": "def solve():\n    \"\"\"\n    Задание 1: Создание дерева директорий\n    Внутри этой функции нужно написать код, который создает в папке `tasks/data_for_task_1`\n    следующую структуру директорий: `media/images/icons/`. Вы должны создать все вложенные папки одной командой.\n    \"\"\"\n    expected_path = os.path.join(\"tasks\", \"data_for_task_1\", \"media\", \"images\", \"icons\")\n    if not os.path.exists(expected_path):\n        os.makedirs(expected_path, exist_ok=True)\nif __name__ == \"__main__\":",
+        "detail": "os.homework.tasks.task_1",
+        "documentation": {}
+    },
+    {
+        "label": "solve",
+        "kind": 2,
+        "importPath": "os.homework.tasks.task_2",
+        "description": "os.homework.tasks.task_2",
+        "peekOfCode": "def solve():\n    \"\"\"\n    Задание 2: Очистка от временных файлов\n    В папке `tasks/data_for_task_2` находится беспорядок из разных файлов. \n    Вам нужно написать код, который найдет и **удалит** все файлы, заканчивающиеся на `.tmp`. \n    Другие файлы должны остаться нетронутыми.\n    \"\"\"\n    data_folder = os.path.join('tasks', 'data_for_task_2')\n    # Проверяем, что в папке есть .tmp файлы до выполнения задания\n    initial_files = os.listdir(data_folder)",
+        "detail": "os.homework.tasks.task_2",
+        "documentation": {}
+    },
+    {
+        "label": "solve",
+        "kind": 2,
+        "importPath": "os.homework.tasks.task_3",
+        "description": "os.homework.tasks.task_3",
+        "peekOfCode": "def solve():\n    \"\"\"\n    Задание 3: Группировка файлов по первой букве\n    В папке `tasks/data_for_task_3` лежит много файлов.\n    Вам нужно написать скрипт, который сгруппирует их по первой букве имени.\n    1.  Для каждой буквы алфавита, с которой начинается хотя бы один файл, нужно создать папку с этой буквой (например, `A`, `B`, `C`...). Папки должны быть в верхнем регистре.\n    2.  Переместить каждый файл в соответствующую ему папку.\n    *   Пример: файл `apple.txt` должен быть перемещен в папку `A`, а `Bear.jpg` — в папку `B`.\n    \"\"\"\n    data_folder = os.path.join(\"tasks\", \"data_for_task_3\")",
+        "detail": "os.homework.tasks.task_3",
+        "documentation": {}
+    },
+    {
+        "label": "solve",
+        "kind": 2,
+        "importPath": "os.homework.tasks.task_4",
+        "description": "os.homework.tasks.task_4",
+        "peekOfCode": "def solve():\n    \"\"\"\n    Задание 4: Сбор информации о файлах\n    В папке `tasks/data_for_task_4` лежат файлы разных размеров. \n    Вам нужно написать код, который проанализирует эту папку и вернет из функции `solve()` словарь, где:\n    *   Ключи — это строки: `'small'`, `'medium'`, `'large'`.\n    *   Значения — это количество файлов, попадающих в соответствующую категорию.\n    *   Критерии размера:\n    *   `small`: размер файла <= 10 байт.\n    *   `medium`: 10 байт < размер файла <= 100 байт.",
+        "detail": "os.homework.tasks.task_4",
+        "documentation": {}
+    },
+    {
+        "label": "solve",
+        "kind": 2,
+        "importPath": "os.homework.tasks.task_5",
+        "description": "os.homework.tasks.task_5",
+        "peekOfCode": "def solve():\n    \"\"\"\n    Задание 5 (Продвинутое): Рекурсивный поиск файлов\n    В папке `tasks/data_for_task_5` находится сложная структура из вложенных папок и файлов.\n    Вам нужно написать код, который \"пройдется\" по всем папкам и подпапкам, найдет **все** файлы с расширением `.log` и вернет из функции\n    `solve()` список, содержащий **полные пути** к этим файлам.\n    *   Подсказка: Это идеальная задача для использования `os.walk(path)`. Этот генератор обходит все дерево директорий сверху вниз.\n    Изучите, как он работает.\n    \"\"\"\n    data_folder = os.path.join(\"tasks\", \"data_for_task_5\")",
+        "detail": "os.homework.tasks.task_5",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_1",
+        "kind": 2,
+        "importPath": "os.homework.tests.test_task_1",
+        "description": "os.homework.tests.test_task_1",
+        "peekOfCode": "def test_task_1():\n    # Вызываем функцию solve для создания структуры директорий\n    solve()\n    # Проверяем, что структура директорий создана правильно\n    expected_path = os.path.join('tasks', 'data_for_task_1', 'media', 'images', 'icons')\n    assert os.path.exists(expected_path), f\"Папка {expected_path} не была создана\"",
+        "detail": "os.homework.tests.test_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_2",
+        "kind": 2,
+        "importPath": "os.homework.tests.test_task_2",
+        "description": "os.homework.tests.test_task_2",
+        "peekOfCode": "def test_task_2():\n    # Проверяем начальное состояние папки\n    data_folder = os.path.join('tasks', 'data_for_task_2')\n    # Проверяем, что в папке есть .tmp файлы до выполнения задания\n    initial_files = os.listdir(data_folder)\n    tmp_files_before = [f for f in initial_files if f.endswith('.tmp')]\n    assert len(tmp_files_before) > 0, \"В папке должны быть .tmp файлы для тестирования\"\n    # Проверяем, что есть другие файлы\n    other_files_before = [f for f in initial_files if not f.endswith('.tmp')]\n    assert len(other_files_before) > 0, \"В папке должны быть файлы с другими расширениями для тестирования\"",
+        "detail": "os.homework.tests.test_task_2",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_3",
+        "kind": 2,
+        "importPath": "os.homework.tests.test_task_3",
+        "description": "os.homework.tests.test_task_3",
+        "peekOfCode": "def test_task_3():\n    # Папка с данными для задания\n    data_folder = os.path.join('tasks', 'data_for_task_3')\n    # Получаем список файлов до выполнения задания\n    initial_files = os.listdir(data_folder)\n    assert len(initial_files) > 0, \"В папке должны быть файлы для тестирования\"\n    # Вызываем функцию solve для группировки файлов\n    solve()\n    # Получаем список файлов и папок после выполнения задания\n    final_items = os.listdir(data_folder)",
+        "detail": "os.homework.tests.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_4",
+        "kind": 2,
+        "importPath": "os.homework.tests.test_task_4",
+        "description": "os.homework.tests.test_task_4",
+        "peekOfCode": "def test_task_4():\n    # Папка с данными для задания\n    data_folder = os.path.join('tasks', 'data_for_task_4')\n    # Вызываем функцию solve для сбора информации о файлах\n    result = solve()\n    # Проверяем, что результат является словарем\n    assert isinstance(result, dict), \"Функция solve должна возвращать словарь\"\n    # Проверяем, что словарь содержит правильные ключи\n    expected_keys = {'small', 'medium', 'large'}\n    assert set(result.keys()) == expected_keys, f\"Словарь должен содержать ключи {expected_keys}\"",
+        "detail": "os.homework.tests.test_task_4",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_5",
+        "kind": 2,
+        "importPath": "os.homework.tests.test_task_5",
+        "description": "os.homework.tests.test_task_5",
+        "peekOfCode": "def test_task_5():\n    # Папка с данными для задания\n    data_folder = os.path.join('tasks', 'data_for_task_5')\n    # Вызываем функцию solve для рекурсивного поиска .log файлов\n    result = solve()\n    # Проверяем, что результат является списком\n    assert isinstance(result, list), \"Функция solve должна возвращать список\"\n    # Проверяем, что все элементы списка являются строками (путями к файлам)\n    for item in result:\n        assert isinstance(item, str), \"Все элементы списка должны быть строками (путями к файлам)\"",
+        "detail": "os.homework.tests.test_task_5",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "os.homework.main",
+        "description": "os.homework.main",
+        "peekOfCode": "def main():\n    print(\"Hello from os-homework!\")\nif __name__ == \"__main__\":\n    main()",
+        "detail": "os.homework.main",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "random.homework..venv.Scripts.activate_this",
+        "description": "random.homework..venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"random_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "random.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "random.homework..venv.Scripts.activate_this",
+        "description": "random.homework..venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"random_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": "random.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "random.homework..venv.Scripts.activate_this",
+        "description": "random.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"random_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "random.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "random.homework..venv.Scripts.activate_this",
+        "description": "random.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"random_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "random.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "random.homework..venv.Scripts.activate_this",
+        "description": "random.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"random_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "random.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "random.homework..venv.Scripts.activate_this",
+        "description": "random.homework..venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "random.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "random.homework..venv.Scripts.activate_this",
+        "description": "random.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "random.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "random.homework..venv.Scripts.activate_this",
+        "description": "random.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "random.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "random.homework..venv.Scripts.activate_this",
+        "description": "random.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "random.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "task_1_roll_dice",
+        "kind": 2,
+        "importPath": "random.homework.tasks.task_1",
+        "description": "random.homework.tasks.task_1",
+        "peekOfCode": "def task_1_roll_dice(sides: int) -> int:\n    \"\"\"\n    Функция, которая имитирует бросок одного игрального кубика с заданным количеством граней.\n    Args:\n        sides (int): Количество граней у кубика (целое число). Например, для стандартного кубика это будет 6.\n    Returns:\n        int: Случайное целое число в диапазоне от 1 до sides включительно.\n    \"\"\"\n    pass",
+        "detail": "random.homework.tasks.task_1",
+        "documentation": {}
+    },
+    {
+        "label": "task_2_select_winner",
+        "kind": 2,
+        "importPath": "random.homework.tasks.task_2",
+        "description": "random.homework.tasks.task_2",
+        "peekOfCode": "def task_2_select_winner(participants: list[str]) -> str:\n    \"\"\"\n    У вас есть список участников лотереи. Напишите функцию, которая выбирает и возвращает имя одного случайного победителя.\n    Args:\n        participants (list[str]): Список строк, где каждая строка — это имя участника.\n    Returns:\n        str: Строка с именем одного случайно выбранного участника.\n    \"\"\"\n    pass",
+        "detail": "random.homework.tasks.task_2",
+        "documentation": {}
+    },
+    {
+        "label": "task_3_generate_password",
+        "kind": 2,
+        "importPath": "random.homework.tasks.task_3",
+        "description": "random.homework.tasks.task_3",
+        "peekOfCode": "def task_3_generate_password(length: int) -> str:\n    \"\"\"\n    Функция для генерации случайного пароля заданной длины.\n    Пароль должен состоять из ASCII-символов: строчных и прописных букв, цифр и знаков пунктуации.\n    Args:\n        length (int): Желаемая длина пароля (целое число).\n    Returns:\n        str: Строка, представляющая собой сгенерированный пароль.\n    \"\"\"\n    pass",
+        "detail": "random.homework.tasks.task_3",
+        "documentation": {}
+    },
+    {
+        "label": "task_4_select_unique_prizes",
+        "kind": 2,
+        "importPath": "random.homework.tasks.task_4",
+        "description": "random.homework.tasks.task_4",
+        "peekOfCode": "def task_4_select_unique_prizes(prizes: list[str], count: int) -> list[str]:\n    \"\"\"\n    Нужно выбрать несколько случайных призов из списка для награждения победителей.\n    Важное условие: все выбранные призы должны быть уникальными (без повторений).\n    Args:\n        prizes (list[str]): Список всех возможных призов.\n        count (int): Количество призов, которое нужно выбрать.\n    Returns:\n        list[str]: Новый список, содержащий count уникальных призов, выбранных случайным образом.\n    \"\"\"",
+        "detail": "random.homework.tasks.task_4",
+        "documentation": {}
+    },
+    {
+        "label": "task_5_open_lootbox",
+        "kind": 2,
+        "importPath": "random.homework.tasks.task_5",
+        "description": "random.homework.tasks.task_5",
+        "peekOfCode": "def task_5_open_lootbox(items: dict[str, int]) -> str:\n    \"\"\"\n    Функция, которая имитирует открытие \"лутбокса\" (контейнера с наградами в играх).\n    Функция должна возвращать один предмет с учётом его \"веса\" или шанса выпадения.\n    Args:\n        items (dict[str, int]): Словарь, где ключ (str) — название предмета, а значение (int) — его вес.\n                                Чем больше вес, тем выше шанс выпадения.\n    Returns:\n        str: Строка с названием одного выпавшего предмета.\n    \"\"\"",
+        "detail": "random.homework.tasks.task_5",
+        "documentation": {}
+    },
+    {
+        "label": "TestTask1RollDice",
+        "kind": 6,
+        "importPath": "random.homework.tests.test_task_1",
+        "description": "random.homework.tests.test_task_1",
+        "peekOfCode": "class TestTask1RollDice(unittest.TestCase):\n    def test_roll_dice_with_6_sides(self):\n        \"\"\"Тест с 6-гранным кубиком\"\"\"\n        result = task_1_roll_dice(6)\n        self.assertIsInstance(result, int)\n        self.assertGreaterEqual(result, 1)\n        self.assertLessEqual(result, 6)\n    def test_roll_dice_with_20_sides(self):\n        \"\"\"Тест с 20-гранным кубиком (D&D)\"\"\"\n        result = task_1_roll_dice(20)",
+        "detail": "random.homework.tests.test_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "TestTask2SelectWinner",
+        "kind": 6,
+        "importPath": "random.homework.tests.test_task_2",
+        "description": "random.homework.tests.test_task_2",
+        "peekOfCode": "class TestTask2SelectWinner(unittest.TestCase):\n    def test_select_winner_from_list(self):\n        \"\"\"Тест выбора победителя из списка\"\"\"\n        participants = [\"Анна\", \"Борис\", \"Виктор\", \"Дарья\"]\n        winner = task_2_select_winner(participants)\n        self.assertIsInstance(winner, str)\n        self.assertIn(winner, participants)\n    def test_select_winner_single_participant(self):\n        \"\"\"Тест с одним участником\"\"\"\n        participants = [\"Алексей\"]",
+        "detail": "random.homework.tests.test_task_2",
+        "documentation": {}
+    },
+    {
+        "label": "TestTask3GeneratePassword",
+        "kind": 6,
+        "importPath": "random.homework.tests.test_task_3",
+        "description": "random.homework.tests.test_task_3",
+        "peekOfCode": "class TestTask3GeneratePassword(unittest.TestCase):\n    def test_password_length(self):\n        \"\"\"Тест длины пароля\"\"\"\n        length = 12\n        password = task_3_generate_password(length)\n        self.assertEqual(len(password), length)\n    def test_password_length_zero(self):\n        \"\"\"Тест с длиной 0\"\"\"\n        password = task_3_generate_password(0)\n        self.assertEqual(len(password), 0)",
+        "detail": "random.homework.tests.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "TestTask4SelectUniquePrizes",
+        "kind": 6,
+        "importPath": "random.homework.tests.test_task_4",
+        "description": "random.homework.tests.test_task_4",
+        "peekOfCode": "class TestTask4SelectUniquePrizes(unittest.TestCase):\n    def test_select_unique_prizes(self):\n        \"\"\"Тест выбора уникальных призов\"\"\"\n        prizes = [\"Кружка\", \"Футболка\", \"Блокнот\", \"Ручка\", \"Стикер\"]\n        selected = task_4_select_unique_prizes(prizes, 3)\n        self.assertEqual(len(selected), 3)\n        self.assertIsInstance(selected, list)\n        # Проверяем, что все выбранные призы из исходного списка\n        for prize in selected:\n            self.assertIn(prize, prizes)",
+        "detail": "random.homework.tests.test_task_4",
+        "documentation": {}
+    },
+    {
+        "label": "TestTask5OpenLootbox",
+        "kind": 6,
+        "importPath": "random.homework.tests.test_task_5",
+        "description": "random.homework.tests.test_task_5",
+        "peekOfCode": "class TestTask5OpenLootbox(unittest.TestCase):\n    def test_lootbox_with_multiple_items(self):\n        \"\"\"Тест лутбокса с несколькими предметами\"\"\"\n        loot = {\n            \"Обычный меч\": 100,\n            \"Редкий щит\": 20,\n            \"Эпический шлем\": 5,\n            \"Легендарный дракон\": 1\n        }\n        item = task_5_open_lootbox(loot)",
+        "detail": "random.homework.tests.test_task_5",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "random.homework.main",
+        "description": "random.homework.main",
+        "peekOfCode": "def main():\n    print(\"Hello from random-homework!\")\nif __name__ == \"__main__\":\n    main()",
+        "detail": "random.homework.main",
+        "documentation": {}
+    },
+    {
+        "label": "roll_dice",
+        "kind": 2,
+        "importPath": "re.homework.2d6",
+        "description": "re.homework.2d6",
+        "peekOfCode": "def roll_dice() -> int:\n    \"\"\"Имитирует бросок двух шестигранных кубиков и возвращает сумму.\"\"\"\n    die1 = random.randint(1, 6)\n    die2 = random.randint(1, 6)\n    total = die1 + die2\n    print(f\"Бросок: {die1} + {die2} = {total}\")\n    return total\n# Совершаем бросок\nroll_result = roll_dice()",
+        "detail": "re.homework.2d6",
+        "documentation": {}
+    },
+    {
+        "label": "roll_result",
+        "kind": 5,
+        "importPath": "re.homework.2d6",
+        "description": "re.homework.2d6",
+        "peekOfCode": "roll_result = roll_dice()",
+        "detail": "re.homework.2d6",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "re.homework.main",
+        "description": "re.homework.main",
+        "peekOfCode": "def main():\n    print(\"Hello from re-homework!\")\nif __name__ == \"__main__\":\n    main()",
+        "detail": "re.homework.main",
+        "documentation": {}
+    },
+    {
+        "label": "estimate_pi",
+        "kind": 2,
+        "importPath": "re.homework.monte_carlo",
+        "description": "re.homework.monte_carlo",
+        "peekOfCode": "def estimate_pi(num_points: int) -> float:\n    \"\"\"Оценивает число Пи методом Монте-Карло.\"\"\"\n    points_in_circle = 0\n    for _ in range(num_points):\n        # Генерируем случайную точку (x, y) в квадрате 1x1\n        x = random.random()\n        y = random.random()\n        # Проверяем, находится ли точка внутри круга с радиусом 1\n        # по формуле x² + y² <= r² (где r=1)\n        if x**2 + y**2 <= 1:",
+        "detail": "re.homework.monte_carlo",
+        "documentation": {}
+    },
+    {
+        "label": "pi_estimate",
+        "kind": 5,
+        "importPath": "re.homework.monte_carlo",
+        "description": "re.homework.monte_carlo",
+        "peekOfCode": "pi_estimate = estimate_pi(1_000_000)\nprint(f\"Примерная оценка числа Пи: {pi_estimate}\")",
+        "detail": "re.homework.monte_carlo",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password",
+        "kind": 2,
+        "importPath": "re.homework.password_gen",
+        "description": "re.homework.password_gen",
+        "peekOfCode": "def generate_password(length: int) -> str:\n    \"\"\"Генерирует случайный пароль заданной длины.\"\"\"\n    # 1. Создаем \"алфавит\" - строку со всеми возможными символами\n    all_chars = string.ascii_letters + string.digits + string.punctuation\n    # 2. Выбираем 'length' символов из нашего алфавита.\n    #    random.choices позволяет символам повторяться, что нам и нужно.\n    password_list = random.choices(all_chars, k=length)\n    # 3. Соединяем список символов в одну строку\n    return \"\".join(password_list)\n# Генерируем 16-значный пароль",
+        "detail": "re.homework.password_gen",
+        "documentation": {}
+    },
+    {
+        "label": "new_password",
+        "kind": 5,
+        "importPath": "re.homework.password_gen",
+        "description": "re.homework.password_gen",
+        "peekOfCode": "new_password = generate_password(16)\nprint(f\"Сгенерированный пароль: {new_password}\")",
+        "detail": "re.homework.password_gen",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "kind": 5,
+        "importPath": "re.homework.Задача1",
+        "description": "re.homework.Задача1",
+        "peekOfCode": "text = \"\"\"\nСвяжитесь с нами по info@example.com или support@my-domain.co.uk.\nНевалидный адрес: user@.com. Также есть test.user@gmail.com.\n\"\"\"\npattern = r'[\\w.-]+@[\\w.-]+\\.[\\w.-]+'\nemails = re.findall(pattern, text)\nprint(emails)\n# Решение:\n#\n# import re",
+        "detail": "re.homework.Задача1",
+        "documentation": {}
+    },
+    {
+        "label": "pattern",
+        "kind": 5,
+        "importPath": "re.homework.Задача1",
+        "description": "re.homework.Задача1",
+        "peekOfCode": "pattern = r'[\\w.-]+@[\\w.-]+\\.[\\w.-]+'\nemails = re.findall(pattern, text)\nprint(emails)\n# Решение:\n#\n# import re\n#\n# text = \"\"\"\n# Свяжитесь с нами по info@example.com или support@my-domain.co.uk.\n# Невалидный адрес: user@.com. Также есть test.user@gmail.com.",
+        "detail": "re.homework.Задача1",
+        "documentation": {}
+    },
+    {
+        "label": "emails",
+        "kind": 5,
+        "importPath": "re.homework.Задача1",
+        "description": "re.homework.Задача1",
+        "peekOfCode": "emails = re.findall(pattern, text)\nprint(emails)\n# Решение:\n#\n# import re\n#\n# text = \"\"\"\n# Свяжитесь с нами по info@example.com или support@my-domain.co.uk.\n# Невалидный адрес: user@.com. Также есть test.user@gmail.com.\n# \"\"\"",
+        "detail": "re.homework.Задача1",
+        "documentation": {}
+    },
+    {
+        "label": "log_entry",
+        "kind": 5,
+        "importPath": "re.homework.Задача2",
+        "description": "re.homework.Задача2",
+        "peekOfCode": "log_entry = \"2025-10-13 15:05:21 ERROR: Connection to database failed.\"\npattern = r'^(?P<date>\\d{4}-\\d{2}-\\d{2})\\s(?P<time>\\d{2}:\\d{2}:\\d{2})\\s(?P<level>\\w+):\\s(?P<message>.*)$'\nmatch = re.search(pattern, log_entry)\nif match:\n    print(match.groupdict())\n# Решение:\n#\n# import re\n#\n# log_entry = \"2025-10-13 15:05:21 ERROR: Connection to database failed.\"",
+        "detail": "re.homework.Задача2",
+        "documentation": {}
+    },
+    {
+        "label": "pattern",
+        "kind": 5,
+        "importPath": "re.homework.Задача2",
+        "description": "re.homework.Задача2",
+        "peekOfCode": "pattern = r'^(?P<date>\\d{4}-\\d{2}-\\d{2})\\s(?P<time>\\d{2}:\\d{2}:\\d{2})\\s(?P<level>\\w+):\\s(?P<message>.*)$'\nmatch = re.search(pattern, log_entry)\nif match:\n    print(match.groupdict())\n# Решение:\n#\n# import re\n#\n# log_entry = \"2025-10-13 15:05:21 ERROR: Connection to database failed.\"\n#",
+        "detail": "re.homework.Задача2",
+        "documentation": {}
+    },
+    {
+        "label": "match",
+        "kind": 5,
+        "importPath": "re.homework.Задача2",
+        "description": "re.homework.Задача2",
+        "peekOfCode": "match = re.search(pattern, log_entry)\nif match:\n    print(match.groupdict())\n# Решение:\n#\n# import re\n#\n# log_entry = \"2025-10-13 15:05:21 ERROR: Connection to database failed.\"\n#\n# pattern = r'^(?P<date>\\d{4}-\\d{2}-\\d{2})\\s(?P<time>\\d{2}:\\d{2}:\\d{2})\\s(?P<level>\\w+):\\s(?P<message>.*)$'",
+        "detail": "re.homework.Задача2",
+        "documentation": {}
+    },
+    {
+        "label": "html_text",
+        "kind": 5,
+        "importPath": "re.homework.Задача3",
+        "description": "re.homework.Задача3",
+        "peekOfCode": "html_text = \"<p>Это <b>важный</b> текст.</p> <div>А это - <span>другой</span>.</div>\"\npattern = r'<.*?>'\nclean_text = re.sub(pattern, '', html_text)\nprint(clean_text)\n# Решение:\n#\n# import re\n#\n# html_text = \"<p>Это <b>важный</b> текст.</p> <div>А это - <span>другой</span>.</div>\"\n#",
+        "detail": "re.homework.Задача3",
+        "documentation": {}
+    },
+    {
+        "label": "pattern",
+        "kind": 5,
+        "importPath": "re.homework.Задача3",
+        "description": "re.homework.Задача3",
+        "peekOfCode": "pattern = r'<.*?>'\nclean_text = re.sub(pattern, '', html_text)\nprint(clean_text)\n# Решение:\n#\n# import re\n#\n# html_text = \"<p>Это <b>важный</b> текст.</p> <div>А это - <span>другой</span>.</div>\"\n#\n# pattern = r'<.*?>'",
+        "detail": "re.homework.Задача3",
+        "documentation": {}
+    },
+    {
+        "label": "clean_text",
+        "kind": 5,
+        "importPath": "re.homework.Задача3",
+        "description": "re.homework.Задача3",
+        "peekOfCode": "clean_text = re.sub(pattern, '', html_text)\nprint(clean_text)\n# Решение:\n#\n# import re\n#\n# html_text = \"<p>Это <b>важный</b> текст.</p> <div>А это - <span>другой</span>.</div>\"\n#\n# pattern = r'<.*?>'\n# clean_text = re.sub(pattern, '', html_text)",
+        "detail": "re.homework.Задача3",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "kind": 5,
+        "importPath": "re.homework.Задача4",
+        "description": "re.homework.Задача4",
+        "peekOfCode": "text = \"Товар стоит 1500₽, второй - 25$, а третий 99€. Скидка 50 процентов.\"\npattern = r'\\d+(?=[₽$€])'\nprices = re.findall(pattern, text)\nprint(prices)\n# Решение:\n#\n# import re\n#\n# text = \"Товар стоит 1500₽, второй - 25$, а третий 99€. Скидка 50 процентов.\"\n#",
+        "detail": "re.homework.Задача4",
+        "documentation": {}
+    },
+    {
+        "label": "pattern",
+        "kind": 5,
+        "importPath": "re.homework.Задача4",
+        "description": "re.homework.Задача4",
+        "peekOfCode": "pattern = r'\\d+(?=[₽$€])'\nprices = re.findall(pattern, text)\nprint(prices)\n# Решение:\n#\n# import re\n#\n# text = \"Товар стоит 1500₽, второй - 25$, а третий 99€. Скидка 50 процентов.\"\n#\n# pattern = r'\\d+(?=[₽$€])'",
+        "detail": "re.homework.Задача4",
+        "documentation": {}
+    },
+    {
+        "label": "prices",
+        "kind": 5,
+        "importPath": "re.homework.Задача4",
+        "description": "re.homework.Задача4",
+        "peekOfCode": "prices = re.findall(pattern, text)\nprint(prices)\n# Решение:\n#\n# import re\n#\n# text = \"Товар стоит 1500₽, второй - 25$, а третий 99€. Скидка 50 процентов.\"\n#\n# pattern = r'\\d+(?=[₽$€])'\n# prices = re.findall(pattern, text)",
+        "detail": "re.homework.Задача4",
+        "documentation": {}
+    },
+    {
+        "label": "validate_password",
+        "kind": 2,
+        "importPath": "re.homework.Задача5",
+        "description": "re.homework.Задача5",
+        "peekOfCode": "def validate_password(password):\n    pattern = r'' # Ваше выражение\n    return bool(re.match(pattern, password))\nprint(validate_password(\"Short7\")) # False\nprint(validate_password(\"nouppercase7\")) # False\nprint(validate_password(\"NOLOWERCASE7\")) # False\nprint(validate_password(\"NoDigits\")) # False\nprint(validate_password(\"ValidPass123\")) # True\n# Решение:\n#",
+        "detail": "re.homework.Задача5",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "sys.homework..venv.Scripts.activate_this",
+        "description": "sys.homework..venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"sys_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "sys.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "sys.homework..venv.Scripts.activate_this",
+        "description": "sys.homework..venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"sys_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": "sys.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "sys.homework..venv.Scripts.activate_this",
+        "description": "sys.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"sys_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "sys.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "sys.homework..venv.Scripts.activate_this",
+        "description": "sys.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"sys_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "sys.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "sys.homework..venv.Scripts.activate_this",
+        "description": "sys.homework..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"sys_homework\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "sys.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "sys.homework..venv.Scripts.activate_this",
+        "description": "sys.homework..venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "sys.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "sys.homework..venv.Scripts.activate_this",
+        "description": "sys.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "sys.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "sys.homework..venv.Scripts.activate_this",
+        "description": "sys.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "sys.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "sys.homework..venv.Scripts.activate_this",
+        "description": "sys.homework..venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "sys.homework..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_1_no_args",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_1",
+        "description": "sys.homework.tests.test_task_1",
+        "peekOfCode": "def test_task_1_no_args():\n    \"\"\"Тест: запуск без аргументов - выводит пустую строку\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_1.py'], \n                          capture_output=True, text=True, input='')\n    assert result.stdout == '\\n'\n    assert result.returncode == 0\ndef test_task_1_with_args():\n    \"\"\"Тест: запуск с аргументами - выводит их через пробел\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_1.py', 'Hello', 'world', 'from', 'Python'], \n                          capture_output=True, text=True, input='')",
+        "detail": "sys.homework.tests.test_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_1_with_args",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_1",
+        "description": "sys.homework.tests.test_task_1",
+        "peekOfCode": "def test_task_1_with_args():\n    \"\"\"Тест: запуск с аргументами - выводит их через пробел\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_1.py', 'Hello', 'world', 'from', 'Python'], \n                          capture_output=True, text=True, input='')\n    assert result.stdout == 'Hello world from Python\\n'\n    assert result.returncode == 0\ndef test_task_1_single_arg():\n    \"\"\"Тест: запуск с одним аргументом\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_1.py', 'one_argument'], \n                          capture_output=True, text=True, input='')",
+        "detail": "sys.homework.tests.test_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_1_single_arg",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_1",
+        "description": "sys.homework.tests.test_task_1",
+        "peekOfCode": "def test_task_1_single_arg():\n    \"\"\"Тест: запуск с одним аргументом\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_1.py', 'one_argument'], \n                          capture_output=True, text=True, input='')\n    assert result.stdout == 'one_argument\\n'\n    assert result.returncode == 0",
+        "detail": "sys.homework.tests.test_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_2_valid_password",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_2",
+        "description": "sys.homework.tests.test_task_2",
+        "peekOfCode": "def test_task_2_valid_password():\n    \"\"\"Тест: валидный пароль - успех\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_2.py', 'StrongPass123', 'StrongPass123'], \n                          capture_output=True, text=True, input='')\n    assert result.stdout == 'Пароль принят.\\n'\n    assert result.returncode == 0\ndef test_task_2_wrong_number_of_args():\n    \"\"\"Тест: неверное количество аргументов\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_2.py', 'a'], \n                          capture_output=True, text=True, input='')",
+        "detail": "sys.homework.tests.test_task_2",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_2_wrong_number_of_args",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_2",
+        "description": "sys.homework.tests.test_task_2",
+        "peekOfCode": "def test_task_2_wrong_number_of_args():\n    \"\"\"Тест: неверное количество аргументов\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_2.py', 'a'], \n                          capture_output=True, text=True, input='')\n    assert result.stderr == 'Ошибка: Укажите пароль и его подтверждение.\\n'\n    assert result.returncode == 1\ndef test_task_2_passwords_not_match():\n    \"\"\"Тест: пароли не совпадают\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_2.py', 'Pass1', 'Pass2'], \n                          capture_output=True, text=True, input='')",
+        "detail": "sys.homework.tests.test_task_2",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_2_passwords_not_match",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_2",
+        "description": "sys.homework.tests.test_task_2",
+        "peekOfCode": "def test_task_2_passwords_not_match():\n    \"\"\"Тест: пароли не совпадают\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_2.py', 'Pass1', 'Pass2'], \n                          capture_output=True, text=True, input='')\n    assert result.stderr == 'Ошибка: Пароли не совпадают.\\n'\n    assert result.returncode == 2\ndef test_task_2_short_password():\n    \"\"\"Тест: слишком короткий пароль\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_2.py', 'short', 'short'], \n                          capture_output=True, text=True, input='')",
+        "detail": "sys.homework.tests.test_task_2",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_2_short_password",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_2",
+        "description": "sys.homework.tests.test_task_2",
+        "peekOfCode": "def test_task_2_short_password():\n    \"\"\"Тест: слишком короткий пароль\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_2.py', 'short', 'short'], \n                          capture_output=True, text=True, input='')\n    assert result.stderr == 'Ошибка: Пароль слишком короткий (минимум 8 символов).\\n'\n    assert result.returncode == 3",
+        "detail": "sys.homework.tests.test_task_2",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_3_valid_file",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_3",
+        "description": "sys.homework.tests.test_task_3",
+        "peekOfCode": "def test_task_3_valid_file():\n    \"\"\"Тест: подсчет строк в существующем файле\"\"\"\n    # Создаем временный файл с 3 строками\n    with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt', encoding='utf-8') as f:\n        f.write('Line 1\\n')\n        f.write('Line 2\\n')\n        f.write('Line 3\\n')\n        temp_file_path = f.name\n    # Файл должен быть закрыт до вызова subprocess\n    # Контекстный менеджер автоматически закрывает файл",
+        "detail": "sys.homework.tests.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_3_no_args",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_3",
+        "description": "sys.homework.tests.test_task_3",
+        "peekOfCode": "def test_task_3_no_args():\n    \"\"\"Тест: не передан аргумент\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_3.py'], \n                          capture_output=True, text=True, input='')\n    assert result.stderr == 'Ошибка: Укажите путь к файлу.\\n'\n    assert result.returncode == 1\ndef test_task_3_file_not_found():\n    \"\"\"Тест: файл не найден\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_3.py', 'non_existent_file.txt'], \n                          capture_output=True, text=True, input='')",
+        "detail": "sys.homework.tests.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_3_file_not_found",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_3",
+        "description": "sys.homework.tests.test_task_3",
+        "peekOfCode": "def test_task_3_file_not_found():\n    \"\"\"Тест: файл не найден\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_3.py', 'non_existent_file.txt'], \n                          capture_output=True, text=True, input='')\n    assert result.stderr == 'Ошибка: Файл не найден.\\n'\n    assert result.returncode == 2",
+        "detail": "sys.homework.tests.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_4_input",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_4",
+        "description": "sys.homework.tests.test_task_4",
+        "peekOfCode": "def test_task_4_input():\n    \"\"\"Тест: чтение из stdin с нумерацией строк\"\"\"\n    input_data = \"Молоко\\nХлеб\\nМасло\\n\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_4.py'], \n                          capture_output=True, text=True, input=input_data)\n    expected_output = \"1: Молоко\\n2: Хлеб\\n3: Масло\\n\"\n    assert result.stdout == expected_output\n    assert result.returncode == 0\ndef test_task_4_empty_input():\n    \"\"\"Тест: пустой ввод\"\"\"",
+        "detail": "sys.homework.tests.test_task_4",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_4_empty_input",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_4",
+        "description": "sys.homework.tests.test_task_4",
+        "peekOfCode": "def test_task_4_empty_input():\n    \"\"\"Тест: пустой ввод\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_4.py'], \n                          capture_output=True, text=True, input='')\n    assert result.stdout == ''\n    assert result.returncode == 0\ndef test_task_4_single_line():\n    \"\"\"Тест: одна строка во вводе\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_4.py'], \n                          capture_output=True, text=True, input='Одна строка')",
+        "detail": "sys.homework.tests.test_task_4",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_4_single_line",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_4",
+        "description": "sys.homework.tests.test_task_4",
+        "peekOfCode": "def test_task_4_single_line():\n    \"\"\"Тест: одна строка во вводе\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_4.py'], \n                          capture_output=True, text=True, input='Одна строка')\n    assert result.stdout == '1: Одна строка'\n    assert result.returncode == 0",
+        "detail": "sys.homework.tests.test_task_4",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_5_pattern_found",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_5",
+        "description": "sys.homework.tests.test_task_5",
+        "peekOfCode": "def test_task_5_pattern_found():\n    \"\"\"Тест: строки с паттерном находятся\"\"\"\n    input_data = \"[INFO] User logged in\\n[DEBUG] Checking cache\\n[ERROR] Failed to connect to DB\\n[INFO] User logged out\\n\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_5.py', '[INFO]'], \n                          capture_output=True, text=True, input=input_data)\n    expected_output = \"[INFO] User logged in\\n[INFO] User logged out\\n\"\n    assert result.stdout == expected_output\n    assert result.returncode == 0\ndef test_task_5_pattern_not_found():\n    \"\"\"Тест: паттерн не найден - ничего не выводится\"\"\"",
+        "detail": "sys.homework.tests.test_task_5",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_5_pattern_not_found",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_5",
+        "description": "sys.homework.tests.test_task_5",
+        "peekOfCode": "def test_task_5_pattern_not_found():\n    \"\"\"Тест: паттерн не найден - ничего не выводится\"\"\"\n    input_data = \"[INFO] User logged in\\n[DEBUG] Checking cache\\n[ERROR] Failed to connect to DB\\n\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_5.py', 'WARNING'], \n                          capture_output=True, text=True, input=input_data)\n    assert result.stdout == ''\n    assert result.returncode == 0\ndef test_task_5_no_args():\n    \"\"\"Тест: не передан аргумент\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_5.py'], ",
+        "detail": "sys.homework.tests.test_task_5",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_5_no_args",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_5",
+        "description": "sys.homework.tests.test_task_5",
+        "peekOfCode": "def test_task_5_no_args():\n    \"\"\"Тест: не передан аргумент\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_5.py'], \n                          capture_output=True, text=True, input='')\n    assert result.stderr == 'Ошибка: Укажите паттерн для поиска.\\n'\n    assert result.returncode == 1\ndef test_task_5_single_match():\n    \"\"\"Тест: одна строка содержит паттерн\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_5.py', 'DB'], \n                          capture_output=True, text=True, input='[ERROR] Failed to connect to DB\\n[INFO] System up')",
+        "detail": "sys.homework.tests.test_task_5",
+        "documentation": {}
+    },
+    {
+        "label": "test_task_5_single_match",
+        "kind": 2,
+        "importPath": "sys.homework.tests.test_task_5",
+        "description": "sys.homework.tests.test_task_5",
+        "peekOfCode": "def test_task_5_single_match():\n    \"\"\"Тест: одна строка содержит паттерн\"\"\"\n    result = subprocess.run([sys.executable, 'sys_homework/tasks/task_5.py', 'DB'], \n                          capture_output=True, text=True, input='[ERROR] Failed to connect to DB\\n[INFO] System up')\n    assert result.stdout == '[ERROR] Failed to connect to DB\\n'\n    assert result.returncode == 0",
+        "detail": "sys.homework.tests.test_task_5",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():\n    print(\"Hello from homeworks!\")\nif __name__ == \"__main__\":\n    main()",
+        "detail": "main",
+        "documentation": {}
+    }
+]
