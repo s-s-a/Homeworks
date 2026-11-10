@@ -1,7 +1,7 @@
+import os
 import subprocess
 import sys
 import tempfile
-import os
 
 
 def test_task_3_valid_file():
@@ -18,7 +18,7 @@ def test_task_3_valid_file():
     
     try:
         result = subprocess.run([sys.executable, 'sys_homework/tasks/task_3.py', temp_file_path], 
-                              capture_output=True, text=True)
+                              capture_output=True, text=True, check=False)
         assert result.stdout == '3\n'
         assert result.returncode == 0
     finally:
@@ -29,7 +29,7 @@ def test_task_3_valid_file():
 def test_task_3_no_args():
     """Тест: не передан аргумент"""
     result = subprocess.run([sys.executable, 'sys_homework/tasks/task_3.py'], 
-                          capture_output=True, text=True, input='')
+                          capture_output=True, text=True, input='', check=False)
     assert result.stderr == 'Ошибка: Укажите путь к файлу.\n'
     assert result.returncode == 1
 
@@ -37,6 +37,6 @@ def test_task_3_no_args():
 def test_task_3_file_not_found():
     """Тест: файл не найден"""
     result = subprocess.run([sys.executable, 'sys_homework/tasks/task_3.py', 'non_existent_file.txt'], 
-                          capture_output=True, text=True, input='')
+                          capture_output=True, text=True, input='', check=False)
     assert result.stderr == 'Ошибка: Файл не найден.\n'
     assert result.returncode == 2
