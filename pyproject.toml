@@ -4,7 +4,14 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "httpx>=0.28.1",
+    "plyer>=2.1.0",
+    "pydantic>=2.14.3",
+    "pydantic-settings>=2.16.2",
+    "schedule>=1.2.2",
+    "selectolax>=1.0.2",
+]
 
 [tool.uv.workspace]
 members = [
@@ -31,4 +38,12 @@ members = [
     "iter-tools",
     "pydantic_v2",
     "msgspec",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+    "pytest-asyncio>=1.4.1.post1",
+    "pytest-cover>=3.0.0",
+    "pytest-mock>=3.17.0",
 ]
